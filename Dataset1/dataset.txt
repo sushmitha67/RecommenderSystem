@@ -1,0 +1,8279 @@
+
+
+Name
+Abhiram Ravikumar
+Experience
+Associate Developer  at   SAP
+July 2016  -  Present (9 months)
+Regional Coordinator - Mozilla Clubs  at   Mozilla
+May 2015  -  Present (1 year 11 months)
+Intern  at   AboutNumber
+December 2014  -  January 2015  (2 months)
+Peer Mentor  at   Boot me up
+September 2014  -  November 2014  (3 months)
+Member Technical Staff  at   Ordell Ugo
+August 2013  -  September 2014  (1 year 2 months)
+Digital Volunteer  at   Ministry of Communications and Information Technology
+May 2013  -  May 2014  (1 year 1 month)
+Mozilla Rep  at   Mozilla
+November 2015  -  Present
+Skills
+C
+Java
+C++
+Windows
+English
+Research
+Microsoft Word
+Social Media
+Photoshop
+Python
+
+PowerPoint
+Outlook
+Customer Service
+Teaching
+Public Speaking
+Social Media Marketing
+Big Data
+Data Science
+Event Planning
+HTML
+MySQL
+Big Data Analytics
+Microsoft PowerPoint
+JavaScript
+
+Education
+Engineering
+Engineering
+
+
+##########
+Name
+Abhishek Banerjee
+Experience
+Associate Technology L1  at   Sapient
+January 2016  -  Present (1 year 3 months)
+Trainee Technology  at   Sapient
+July 2015  -  January 2016  (7 months)
+Skills
+C++
+C
+Microsoft Office
+JavaScript
+HTML
+C#
+AngularJS
+Cascading Style Sheets (CSS)
+Algorithms
+Programming
+DBMS
+CSS
+Data Structures
+OOP
+MySQL
+Design Patterns
+Quality Assurance
+
+Regression Testing
+Microsoft Excel
+Selenium WebDriver
+QA Automation
+Projects
+Mini Unix Shell
+April 2014 to Present
+Members:Abhishek Banerjee
+Created a Replica of the Unix Shell. Command line interface included. Based on the concept of string
+ tokenizing and Recognition. Commands implemented by Unix System programming.
+Asteroids
+May 2014 to Present
+Members:Abhishek Banerjee, Ashish Singh
+Asteroids Game using OpenGL APIs. The game has been developed in C . GLUT libraries used for graphical
+ interface.
+Pristine
+January 2015 to May 2015
+Members:Abhishek Banerjee, Vidhi Shah
+An android app providing a social platform to citizens to report environmental and social issues and spread
+ awareness among fellow citizens.
+Voyage Companion
+Members:Abhishek Banerjee, Ravi Shankar Kumar
+A web based application promoting medical tourism in India. 
+
+Education
+Engineering
+
+
+##########
+Name
+Abhishek Banerjee
+Experience
+Associate Technology L1  at   Sapient
+January 2016  -  Present (1 year 3 months)
+Trainee Technology  at   Sapient
+July 2015  -  January 2016  (7 months)
+Skills
+C++
+C
+Microsoft Office
+JavaScript
+HTML
+C#
+AngularJS
+Cascading Style Sheets (CSS)
+Algorithms
+Programming
+DBMS
+CSS
+Data Structures
+OOP
+MySQL
+Design Patterns
+Quality Assurance
+
+Regression Testing
+Microsoft Excel
+Selenium WebDriver
+QA Automation
+Projects
+Mini Unix Shell
+April 2014 to Present
+Members:Abhishek Banerjee
+Created a Replica of the Unix Shell. Command line interface included. Based on the concept of string
+ tokenizing and Recognition. Commands implemented by Unix System programming.
+Asteroids
+May 2014 to Present
+Members:Abhishek Banerjee, Ashish Singh
+Asteroids Game using OpenGL APIs. The game has been developed in C . GLUT libraries used for graphical
+ interface.
+Pristine
+January 2015 to May 2015
+Members:Abhishek Banerjee, Vidhi Shah
+An android app providing a social platform to citizens to report environmental and social issues and spread
+ awareness among fellow citizens.
+Voyage Companion
+Members:Abhishek Banerjee, Ravi Shankar Kumar
+A web based application promoting medical tourism in India. 
+
+Education
+Engineering
+
+
+##########
+Name
+Abhishek Dashora
+Experience
+Consultant  at   KPMG
+February 2015  -  Present (2 years 2 months)
+Information Security Analyst  at   Dell
+November 2014  -  February 2015  (4 months)
+System Engineer  at   Nous Infosystems
+October 2012  -  November 2014  (2 years 2 months)
+Skills
+Information Security
+Ethical Hacker
+Network Security
+Linux
+Operating Systems
+Unix
+
+Computer Security
+Penetration Testing
+CEH
+Computer Forensics
+IBM Certified Rational Application Developer for
+Websphere software v6.0
+IBM Certified DB2 Associate
+Vulnerability Assessment
+Wireshark
+ISO 27001
+Backtrack
+Nmap
+Application Security
+Nessus
+Vulnerability Scanning
+Metasploit
+OWASP
+Ethical Hacking
+
+Education
+Engineering
+
+
+##########
+Name
+Achal Kumar
+Experience
+Graduate Engineering Trainee  at   Ericsson
+August 2016  -  Present (8 months)
+Intern  at   Ericsson
+January 2016  -  June 2016  (6 months)
+Skills
+Python
+OpenStack
+Ansible
+Shell Scripting
+Java
+Linux
+Data Mining
+Network Security
+Data Modeling
+Network Management Applications
+JavaScript
+C
+HTML
+MySQL
+Microsoft Office
+Microsoft Word
+Programming
+Microsoft Excel
+XML
+PowerPoint
+Experience
+Graduate Engineering Trainee  at   Ericsson
+August 2016  -  Present (8 months)
+Intern  at   Ericsson
+January 2016  -  June 2016  (6 months)
+
+Education
+Engineering
+
+
+##########
+Name
+Adarsh Arora
+Experience
+Business Analyst  at   KPMG
+June 2015  -  Present (1 year 10 months)
+Skills
+Microsoft Excel
+Microsoft Office
+Microsoft Word
+PowerPoint
+Public Speaking
+Research
+Team Management
+Teamwork
+Management
+English
+Leadership
+Business Analysis
+Strategic Planning
+Volunteer Experience
+Vice President  at   Rotaract
+July 2013  -  June 2014
+Rotaract Club of R.V. College of Engineering
+Charter Secretary  at   Rotaract
+July 2016  -  Present
+Rotaract Club of Marathahalli
+
+Adarsh Arora
+Business Analyst at KPMG Advisory Services Private Limited
+Contact Adarsh on LinkedIn
+
+Education
+Engineering
+
+
+##########
+Name
+Aishwarya Iyer
+Experience
+Programmer analyst trainee  at   Cognizant
+September 2015  -  Present (1 year 7 months)
+Community Outreach Manager  at   toorq.com
+February 2015  -  March 2015  (2 months)
+Skills
+Microsoft Office
+Management
+Microsoft Excel
+Microsoft Word
+PowerPoint
+Leadership
+JavaScript
+C
+CRM
+CSS
+Communication
+Databases
+Web Design
+Event Planning
+Event Management
+HTML
+Java
+JSP
+Oracle
+Operating Systems
+SQL
+C++
+Linux
+MySQL
+
+Data Structures
+Teamwork
+HTML5
+
+Education
+BA
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Akash Singh
+Experience
+Associate  at   Cognizant
+January 2017  -  Present (3 months)
+Programmer Analyst  at   Cognizant
+October 2014  -  December 2016  (2 years 3 months)
+Programmer Analyst Trainee  at   Cognizant Technology Solutions
+October 2013  -  October 2014  (1 year 1 month)
+Skills
+Microsoft Office
+SQL
+Microsoft Excel
+PowerPoint
+Microsoft Word
+Customer Service
+Data Warehousing
+MSBI
+SSRS
+SSIS
+cognos bi
+Oracle Database
+MySQL
+Oracle
+Microsoft SQL Server
+
+Education
+BA
+Engineering
+
+
+##########
+Name
+Aman Jha
+Experience
+Business Analyst  at   Venture Factory by i2india
+March 2016  -  April 2016  (2 months)
+Marketing Intern  at   Venture Factory by i2india
+February 2016  -  March 2016  (2 months)
+Web Content Writer  at   Venture Factory by i2india
+February 2016  -  March 2016  (2 months)
+Skills
+Microsoft Excel
+Microsoft Office
+PowerPoint
+Public Speaking
+Teamwork
+C
+Microsoft Word
+Matlab
+Business Analysis
+Retargeting
+Market Research
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Anil Vasista
+Experience
+Transformation Lead for an Insurance Company  at   Accenture in India
+June 2016  -  Present (10 months)
+Limited
+April 2015  -  May 2016  (1 year 2 months)
+Quality Operations and PMO Lead for a CMT Client  at   Accenture in India
+February 2014  -  May 2015  (1 year 4 months)
+Innovation and Industrilization Program - Productivity Bench marking Lead  at   Accenture UK
+October 2011  -  January 2014  (2 years 4 months)
+December 2004  -  October 2011  (6 years 11 months)
+Principal Consultant  at   Crescent Solutions
+January 2001  -  December 2004  (4 years)
+Process Engineer  at   Sunlet Systems (P) Limited
+November 1999  -  November 2001  (2 years 1 month)
+Quality Assurance and Production Manager  at   Glowtronics Limited
+May 1993  -  October 1999  (6 years 6 months)
+Skills
+Business Process Improvement
+Waste Reduction
+Productivity Coaching
+Business Process Design
+Business Transformation
+CMMI
+Software Project Management
+SDLC
+Requirements Analysis
+Process Consulting
+Management Consulting
+IT Strategy
+Business Process
+Business Analysis
+Global Delivery
+Project Portfolio Management
+PMO
+
+Program Management
+Management
+Consulting
+Project Management
+Capability Maturity Model Integration (CMMI)
+
+Education
+Master’s Degree
+Engineering
+Bachelor’s Degree
+
+
+##########
+Name
+Animesh Kumar
+Experience
+Manager HR, Leadership Program (HRLP)  at   Cisco
+May 2014  -  Present (2 years 11 months)
+MBA Intern HR, Leadership Program (HRLP)  at   Cisco Systems
+April 2013  -  June 2013  (3 months)
+Staff Consultant  at   Oracle
+September 2008  -  March 2012  (3 years 7 months)
+Skills
+Human Resources
+
+Employee Engagement
+Team Management
+Performance Management
+Training
+Talent Management
+Business Analysis
+
+Education
+MBA
+BA
+Engineering
+
+
+##########
+Name
+Aravindan Krishnan
+Experience
+Project Manager  at   Accenture
+February 2015  -  Present (2 years 2 months)
+Project Manager  at   Accenture
+January 2014  -  January 2015  (1 year 1 month)
+Project Manager  at   Accenture
+October 2013  -  January 2014  (4 months)
+Project Manager  at   Accenture
+November 2012  -  October 2013  (1 year)
+Supply Chain Consultant  at   Accenture
+December 2009  -  October 2012  (2 years 11 months)
+Supply Chain Consultant  at   Accenture
+January 2008  -  November 2009  (1 year 11 months)
+Supply Chain Consultant  at   Accenture
+June 2007  -  January 2008  (8 months)
+Assistant Manager Production  at   Reliance
+April 2003  -  June 2005  (2 years 3 months)
+Skills
+Project Management
+SDLC
+Supply Chain Management
+Demand Planning
+Supply Network Planning
+Fashion Industry
+Management
+Leadership
+Requirements Analysis
+Integration
+Microsoft Office
+SAP APO
+Solution Architecture
+
+Aravindan Krishnan
+Project Manager at Accenture
+Contact Aravindan on LinkedIn
+
+Education
+Master of Management
+Bachelor’s Degree
+Engineering
+
+
+##########
+Name
+Ashish Gandhi
+Experience
+Senior Associate Technology level 2  at   Sapient
+June 2016  -  Present (10 months)
+Principal Consultant  at   Mercedes-Benz Research and Development India
+December 2015  -  June 2016  (7 months)
+Consultant  at   Deloitte Deloitte US India offices
+April 2015  -  December 2015  (9 months)
+Software Engineer Intermediate  at   JDA Software India
+March 2013  -  April 2015  (2 years 2 months)
+Software Engineer  at   Wipro Technologies India
+February 2010  -  February 2013  (3 years 1 month)
+Skills
+AEM 6.0
+Java
+AEM 6.1
+Agile Methodologies
+JavaScript
+JSP
+Java Enterprise Edition
+Core Java
+HTML
+Team Management
+Scrum
+Requirements Analysis
+JavaServer Pages (JSP)
+Web Services
+Software Development Life Cycle (SDLC)
+
+jQuery
+Software Development
+Servlets
+
+Education
+
+
+##########
+Name
+Brad Smith
+Experience
+President and Chief Legal Officer  at   Microsoft
+September 2015  -  Present (1 year 7 months)
+Member of the Board of Directors  at   Netflix
+June 2015  -  Present (1 year 10 months)
+General Counsel and Executive Vice President, Legal and Corporate Affairs  at   Microsoft Corporation
+July 2002  -  September 2015  (13 years 3 months)
+Deputy General Counsel, Worldwide Sales Group  at   Microsoft Corporation
+August 1996  -  June 2002  (5 years 11 months)
+Associate General Counsel, Europe  at   Microsoft Corporation
+November 1993  -  August 1996  (2 years 10 months)
+Associate and then Partner  at   Covington & Burling
+September 1986  -  November 1993  (7 years 3 months)
+Law Clerk to Judge Charles M. Metzner  at   United States Federal Courts
+September 1985  -  July 1986  (11 months)
+Skills
+Corporate Law
+Intellectual Property
+Mergers & Acquisitions
+Corporate Governance
+Litigation
+Legal Writing
+Commercial Litigation
+Due Diligence
+Strategic Partnerships
+
+
+Education
+
+
+##########
+Name
+Charishma C
+Experience
+PAT  at   Cognizant
+September 2015  -  Present (1 year 7 months)
+Volunteer  at   Bhumi
+May 2015  -  Present
+Junior Teacher  at   Samarthanam Trust for the Disabled,Bangalore
+August 2014  -  Present
+Skills
+Communication
+Microsoft Excel
+Operations Management
+PowerPoint
+Management
+Team Building
+Public Speaking
+C
+Sales Management
+C++
+Microsoft Word
+Marketing
+Microsoft Office
+Project Management
+Engineering
+Customer Service
+Research
+Project Planning
+Social Media
+Teaching
+Programming
+Microsoft PowerPoint
+SQL
+
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Debasis Behera
+Experience
+Senior Software Developer  at   Sapient
+June 2015  -  Present (1 year 10 months)
+Software Developer  at   Mindfire Solutions
+July 2011  -  June 2015  (4 years)
+Skills
+JavaScript
+OOJS
+MVC oojs
+jQuery
+jQuery UI
+HTML
+HTML 5
+CSS
+OOP
+PHP
+AJAX
+laravel
+JSON
+SQL
+MySQL
+Web Services
+Tortoise SVN
+
+Healthcare
+XML
+Subversion
+REST
+JSONP
+HTML5
+Cascading Style Sheets (CSS)
+Software Development
+
+Education
+
+
+##########
+Name
+Deepa Joshi
+Experience
+Software Engineer  at   Infosys
+April 2009  -  Present (8 years)
+Associate Software Engineer  at   Mphasis
+January 2008  -  March 2009  (1 year 3 months)
+Skills
+Cloud Computing
+SQL
+MySQL
+XML
+Databases
+Microsoft SQL Server
+Oracle
+AWS
+VMware
+Hyper-V
+vSphere
+Virtualization
+Linux
+Java
+JavaScript
+Hadoop
+
+C++
+Core Java
+C
+Big Data
+Java Enterprise Edition
+Amazon Web Services (AWS)
+
+Education
+
+
+##########
+Name
+Dr.J.Jagatheesh Jayanand
+Experience
+Senior Manager/Vice President - Learning and Knowledge Management  at   Accenture
+April 2016  -  Present (1 year)
+Senior Manager/Vice President - SAP Sales Enablement Team  at   Accenture
+August 2015  -  April 2016  (9 months)
+Senior Manager/Vice President - SAP Sales Enablement Team  at   Accenture
+June 2007  -  July 2015  (8 years 2 months)
+Functional Consultant-SAP SD  at   Wipro Technologies
+January 2005  -  June 2007  (2 years 6 months)
+Functional Consultant -SAP SD  at   Accenture
+January 2004  -  January 2005  (1 year 1 month)
+Assistant Manager Marketing  at   ACC Cements
+March 2002  -  January 2004  (1 year 11 months)
+Executive-Product  at   Saud Bahwan Group LLC
+May 2001  -  February 2002  (10 months)
+Executive-Sales  at   Larsen & Toubro Limited
+April 1999  -  May 2001  (2 years 2 months)
+Product Executive  at   Tenneco
+April 1998  -  April 1999  (1 year 1 month)
+Skills
+Business Development
+Pre-sales
+Consulting
+Market Research
+SAP ERP
+Business Analysis
+Business Process
+Management Education
+Business Intelligence
+Management
+Requirements Analysis
+People Management
+Integration
+Team Management
+Outsourcing
+SAP Products
+Team Building
+
+Education
+Master of Business Administration (M.B.A.)
+Doctor of Philosophy (Ph.D.)
+Engineering
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Eshwari Ramakrishna
+Experience
+Associate Software Engineer  at   Robert Bosch
+July 2016  -  Present (9 months)
+Skills
+Matlab
+C++
+Linux
+AUTOSAR
+
+Education
+Engineering
+Engineering
+
+
+##########
+Name
+GANESAN PERUMALSAMY
+Experience
+Sr Associate Technology Level I  at   Sapient
+August 2016  -  Present (8 months)
+Sr Systems Engineer  at   Infosys Technology
+July 2013  -  July 2016  (3 years 1 month)
+Corporate Consultant  at   Mazenet Solution pvt ltd
+August 2011  -  July 2013  (2 years)
+Dotnet trainer  at   Click start pvt ltd
+August 2010  -  August 2011  (1 year 1 month)
+Skills
+jQuery
+Software Development
+.NET
+Web Development
+MVC
+JavaScript
+SQL
+ASP.NET
+C#
+Microsoft SQL Server
+HTML
+SDLC
+C
+Web Services
+XML
+AJAX
+ASP.NET MVC
+WCF
+Team Management
+Agile Methodologies
+Microsoft Office
+PL/SQL
+Software Project Management
+Vendor Management
+C++
+Management
+AngularJS
+Java
+Recruiting
+Screening
+CRM
+Leadership
+Windows Communication Foundation (WCF)
+.NET Framework
+Web Services API
+Customer Relationship Management (CRM)
+Angular js
+Html5, CSS3, Bootstrap
+
+
+Education
+Bachelor of Science
+
+
+##########
+Name
+Ganesh Chandra
+Experience
+Software Developer  at   Bosch
+July 2015  -  Present (1 year 9 months)
+Software Development Intern  at   IBM
+January 2015  -  June 2015  (6 months)
+intern  at   Old Dominion University
+June 2014  -  July 2014  (2 months)
+intern  at   Odigma
+June 2013  -  July 2013  (2 months)
+intern  at   Career kraft
+November 2011  -  November 2012  (1 year 1 month)
+odigma posting tool
+July 2013 to Present
+trnket
+June 2014 to Present
+OBJECT RECOGNITION FOR AGGRESSION DETECTION
+June 2014 to Present
+Intruder detection home security system
+January 2015 to May 2015
+Skills
+Java
+C
+Microsoft Office
+Microsoft Excel
+Microsoft Word
+C++
+PowerPoint
+Teamwork
+Research
+Social Media
+HTML
+Photoshop
+Python
+JavaScript
+PHP
+Programming
+SQL
+Cascading Style Sheets (CSS)
+Perl
+R
+
+Education
+
+
+##########
+Name
+Gitika Saksena
+Experience
+Vice President - Talent Management, Employee Experience and Talent Analytics  at   Accenture
+September 2015  -  Present (1 year 7 months)
+Global Leadership Integration Manager  at   Accenture
+March 2015  -  September 2015  (7 months)
+September 2012  -  March 2015  (2 years 7 months)
+Performance & Career Management, Employee Engagement and Recognition Specialist  at   Accenture
+September 2008  -  August 2012  (4 years)
+HR Generalist  at   Accenture
+April 2006  -  August 2008  (2 years 5 months)
+Senior Executive HR  at   Birlasoft
+May 2004  -  March 2006  (1 year 11 months)
+Skills
+Performance Management
+Employee Engagement
+Career Management
+Human Resources
+
+Career Development
+Team Management
+Personnel Management
+Talent Management
+Management
+Recruiting
+Leadership
+Organizational Design
+HR Consulting
+Training
+Management Consulting
+Vendor Management
+Deferred Compensation
+Training Delivery
+HR Service Delivery
+Change Management
+Communication
+PCMM
+Virtual Teams
+Performance Appraisal
+HR Policies
+Employee Relations
+Talent Acquisition
+HR Transformation
+Program Management
+
+Education
+MBA
+BA
+BA
+
+
+##########
+Name
+Harish V Hariharan
+Experience
+
+Skills
+Product Management
+Solution Selling
+Pre-sales
+Business Development
+Team Management
+Leadership
+Sales & Marketing
+Account Management
+Vendor Management
+Customer Relationship Management (CRM)
+Strategy
+Partner Management
+Business Strategy
+Go-to-market Strategy
+Channel Partners
+Digital Marketing
+Digital Transformation
+Alliance Sales
+Management
+Sales Management
+Market Research
+Microsoft Office
+
+Education
+Master of Business Administration (M.B.A.)
+Engineering
+
+
+##########
+Name
+Harish K
+Experience
+Associate Software Engineer  at   Bosch
+July 2015  -  Present (1 year 9 months)
+Associate Software Engineer  at   Bosch
+July 2015  -  Present (1 year 9 months)
+Skills
+C
+Microsoft Office
+C++
+HTML
+Java
+JavaScript
+SQL
+MySQL
+Microsoft Excel
+
+Education
+
+
+##########
+Name
+Harsha HN
+Experience
+Associate Engineer  at   Robert Bosch Engineering and Business solutions
+August 2016  -  Present (8 months)
+Skills
+Machine Learning
+Python
+Matlab
+Advanced Digital Logic Design
+Creative Problem Solving
+Embedded System design
+Xilinx ISE
+Neural Networks
+FPGA
+System Verilog
+Arduino
+Linux Operations
+Computer Networking
+Beaglebone Black
+Digital Signal Processing
+Computer Architecture
+Self-research
+Android Development
+Digital Front-end Design
+Digital Circuit Design
+Cadence : Virtuoso & Encouter
+LaTeX
+Information Theoy & Coding
+Cricket
+Table Tennis
+Teamwork
+RTL Design
+Microsoft Office
+Project Management
+Java
+MM VLSI
+
+Education
+Bachelor’s Degree
+Engineering
+
+
+##########
+Name
+Hemakumar kakaraparti
+Experience
+Manager Experience Development  at   Sapient
+January 2017  -  Present (3 months)
+Senior Interactive Developer L2  at   SapientNitro
+March 2013  -  Present (4 years 1 month)
+Senior Interactive Developer2  at   Sapient
+March 2013  -  Present (4 years 1 month)
+UserInterface Engineer  at   PayPal
+October 2007  -  November 2012  (5 years 2 months)
+Associate Projects  at   Covansys
+February 2006  -  September 2007  (1 year 8 months)
+Developer - Multimedia  at   Altosys Software Technologies
+May 2003  -  January 2006  (2 years 9 months)
+Web / Graphic Designer  at   Design2 Technologies India
+June 2000  -  May 2003  (3 years)
+Skills
+AJAX
+JavaScript
+CSS
+HTML 5
+HTML
+jQuery
+XML
+Agile Methodologies
+Web Development
+Web Applications
+DHTML
+CSS3
+JSP
+User Experience
+JSON
+User Interface Design
+User Interface
+
+Git
+CMS
+Java
+Scrum
+XHTML
+Struts
+Spring
+Servlets
+Java Enterprise Edition
+Jquery plugin Development
+Jade
+Node.js
+MongoDB
+
+Education
+Bachelor of Science
+
+
+##########
+Name
+Hemant Kumar
+Experience
+Senior Associate Level 2  at   Sapient
+August 2016  -  Present (8 months)
+Senior Associate Technology Level 1  at   Sapient
+August 2014  -  Present (2 years 8 months)
+Associate Technology Level 2  at   Sapient
+October 2012  -  July 2014  (1 year 10 months)
+Associate Technology Level 1  at   Sapient
+January 2011  -  August 2012  (1 year 8 months)
+Associate Trainee  at   Sapient
+July 2010  -  December 2010  (6 months)
+Skills
+Big Data
+Hadoop
+Apache Spark
+Scala
+Python
+Hive
+PL/SQL
+Sqoop
+Apache Pig
+Data Warehousing
+Informatica
+Oozie
+MapReduce
+Data Analytics
+apache drill
+Talend Open Studio
+Oracle PL/SQL Development
+Unix Operating Systems
+Data Integration
+Microsoft SQL Server
+ETL Tools
+Basics of Unix
+Microsoft Office
+Microsoft Excel
+Microsoft Word
+Unix
+SQL
+Oracle
+Core Java
+ETL
+Java
+Impala
+Extract, Transform, Load (ETL)
+
+
+Education
+Engineering
+Bachelor of Science
+
+
+##########
+Name
+hussain basha
+Experience
+MIS Coordinator  at   Ericsson Indai Pvt Ltd. Bangalore.
+January 2016  -  Present (1 year 3 months)
+MIS Executive Jr"  at   Ericsson
+August 2015  -  Present (1 year 8 months)
+Skills
+
+Education
+
+
+##########
+Name
+Indira A
+Experience
+Associate  at   Cognizant Technology Solutions
+August 2013  -  Present (3 years 8 months)
+Skills
+C
+JavaScript
+Java
+Data Structures
+C++
+Core Java
+Eclipse
+OpenGL
+HTML
+Operating Systems
+MySQL
+Oracle
+Algorithms
+SQL
+Pentaho
+R analytics
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Irina Ghose
+Experience
+Sales Excellence Director - Enterprise Business (COO)  at   Microsoft
+July 2012  -  Present (4 years 9 months)
+Director & Segment Lead- Education  at   Microsoft
+July 2010  -  June 2012  (2 years)
+Director  at   Microsoft (International Project)
+January 2010  -  June 2010  (6 months)
+Director Sales- South  at   Microsoft
+July 2008  -  December 2009  (1 year 6 months)
+Corporate Sales Business Head- South  at   Microsoft
+June 2005  -  June 2008  (3 years 1 month)
+Corpoate Business Manager  at   Microsoft
+July 2003  -  June 2005  (2 years)
+Regional Partner Alliance Manager  at   Microsoft
+December 2001  -  June 2003  (1 year 7 months)
+Business Consultant-eBusiness, Solutions Division  at   Wipro Infotech Ltd
+November 2000  -  November 2001  (1 year 1 month)
+October 1999  -  October 2000  (1 year 1 month)
+Ltd
+June 1998  -  September 1999  (1 year 4 months)
+Regional Channel Manager, PC Sales for Small and Medium Business  at   HCL Infosystems Ltd
+May 1997  -  May 1998  (1 year 1 month)
+Tata Steel
+June 1993  -  June 1995  (2 years 1 month)
+Skills
+Strategy
+Enterprise Software
+CRM
+Product Management
+Go-to-market Strategy
+Management
+Outsourcing
+Leadership
+Business Planning
+Business Alliances
+Sales Operations
+Professional Services
+Sales Process
+Selling
+Sales Management
+Product Development
+Strategic Planning
+
+Sales
+Team Building
+Project Planning
+Building Relationships
+Financial Modeling
+Cloud Computing
+SaaS
+Solution Selling
+Program Management
+
+Education
+MBA
+BA
+Engineering
+
+
+##########
+Name
+Jayashree Ramachandran
+Experience
+Oracle Primavera Practice lead for Energy, Capital Projects Services  at   Accenture
+December 2013  -  Present (3 years 4 months)
+ERP Offshore Delivery Manager  at   Accenture
+August 2012  -  December 2013  (1 year 5 months)
+Director/Co-Founder  at   iFactory Solutions Pvt. Ltd.
+June 2010  -  July 2012  (2 years 2 months)
+Associate Manager  at   Accenture
+September 2007  -  June 2010  (2 years 10 months)
+Team Lead  at   Accenture
+April 2004  -  September 2007  (3 years 6 months)
+Associate Consultant  at   iGATE Global Solutions
+July 2002  -  March 2004  (1 year 9 months)
+Systems Executive  at   Murugappa Group
+May 2001  -  July 2002  (1 year 3 months)
+Trainee  at   Murugappa Group
+December 1999  -  May 2001  (1 year 6 months)
+Skills
+Business Analysis
+ERP
+Oracle
+Software Project Management
+E-commerce
+Oracle Applications
+Integration
+Project Management
+IT Strategy
+Program Management
+Oracle E-Business Suite
+Management
+Start-ups
+MS Project
+Unix
+Team Management
+Digital Marketing
+Enterprise Software
+Portals
+Microsoft Project
+Offshore Project Management
+Team Leadership
+Leadership
+Primavera P6
+Business Process Management
+
+Education
+Bachelor of Science
+
+
+##########
+Name
+Jojan Mathew
+Experience
+Manager Technology  at   Sapient
+January 2014  -  Present (3 years 3 months)
+Senior Associate Technology  at   Sapient
+January 2004  -  December 2013  (10 years)
+Skills
+Struts
+Hibernate
+Spring
+Agile Methodologies
+Web Services
+Java Enterprise Edition
+SOA
+JSP
+XML
+Weblogic
+Oracle
+Tomcat
+Requirements Analysis
+Core Java
+Software Project Management
+Java
+SDLC
+AJAX
+JavaScript
+Servlets
+WCS
+Search
+Endeca
+Interwoven OpenDeploy
+
+Education
+Bachelor of Science
+
+
+##########
+Name
+Kalpak Seal
+Experience
+Systems Engineer - Core Infrastructure  at   Infosys Limited
+September 2016  -  Present (7 months)
+Systems Engineer  at   Infosys Limited
+December 2015  -  September 2016  (10 months)
+Systems Engineer Trainee  at   Infosys Limited
+July 2015  -  December 2015  (6 months)
+Project Intern  at   Variable Energy Cyclotron Centre
+September 2014  -  July 2015  (11 months)
+Summer Intern  at   Variable Energy Cyclotron Centre
+June 2014  -  July 2014  (2 months)
+Summer Trainee  at   Airports Authority of India
+June 2013  -  July 2013  (2 months)
+Skills
+C
+C++
+Java
+Linux
+Public Speaking
+Matlab
+SQL
+Programming
+JavaScript
+Robotics
+Engineering
+Core Java
+HTML
+Python
+Networking
+Data Structures
+Algorithms
+Database Management System (DBMS)
+Operating Systems
+NETCONF
+
+Education
+Engineering
+
+
+##########
+Name
+Kapil Lalchandani
+Experience
+Network Consulting Engineer - Business Video  at   Cisco Systems India
+July 2007  -  Present (9 years 9 months)
+Senior Network Engineer  at   Symantec
+January 2006  -  June 2007  (1 year 6 months)
+Sr. Network Engineer  at   Network Solutions
+September 2004  -  October 2005  (1 year 2 months)
+Senior Network Engineer  at   Exatt Technologies Pvt. Ltd
+September 2003  -  August 2004  (1 year)
+Network Consulting Engineer - Business Video  at   Cisco Systems India
+July 2007  -  Present (9 years 9 months)
+Senior Network Engineer  at   Symantec
+January 2006  -  June 2007  (1 year 6 months)
+Sr. Network Engineer  at   Network Solutions
+September 2004  -  October 2005  (1 year 2 months)
+Senior Network Engineer  at   Exatt Technologies Pvt. Ltd
+September 2003  -  August 2004  (1 year)
+Skills
+Cisco Technologies
+SIP Trunking
+Unified Communications
+Telepresence
+Digital Media Services
+Cisco Telepresence
+Video Conferencing
+ECDS
+TelePresence Exchange
+CTX
+Tandberg
+Cisco Routing & Switching
+Pre-sales
+Solution Architecture
+Firewalls
+Streaming Media
+Data Center
+Networking
+Cisco Call Manager
+QoS
+Security
+Network Architecture
+CCNP
+Cisco Routers
+Cisco IOS
+MPLS
+Network Design
+Routing
+CCNA
+BGP
+OSPF
+IP
+Switches
+Quality of Service (QoS)
+
+Education
+
+
+##########
+Name
+Keerthi Mohan
+Experience
+Associate L1  at   Sapient
+June 2016  -  Present (10 months)
+Skills
+HTML
+HTML5
+Cascading Style Sheets (CSS)
+jQuery
+JavaScript
+React.js
+Microsoft Word
+PowerPoint
+Microsoft Office
+Microsoft Excel
+
+Keerthi Mohan
+Working at Sapient
+Contact Keerthi on LinkedIn
+
+Education
+
+
+##########
+Name
+Krishangee R Bora
+Experience
+Solution Integrator  at   Ericsson
+November 2015  -  Present (1 year 5 months)
+Senior Risk Analyst  at   EY
+July 2015  -  October 2015  (4 months)
+Student Internship  at   Nokia
+October 2013  -  June 2015  (1 year 9 months)
+Skills
+C
+C++
+HTML
+JavaScript
+MySQL
+Java
+Microsoft Office
+SQL
+Python
+Linux
+Programming
+CSS
+Microsoft Excel
+Unix
+Software Development
+Management
+PowerPoint
+Cascading Style Sheets (CSS)
+PHP
+Microsoft Word
+Research
+Project Management
+Database management system
+Perl
+XML
+Matlab
+
+Oracle
+Data Structures
+SoC
+Internal Audit
+ITGC testing
+Finance Audit Of IT Systems
+Mercury Workpapers
+review testing
+Reperformance Testing
+Independant Testing
+Windows
+vb scripting
+Powershell
+C#
+Team Management
+CIS-CAT tool
+AngularJS
+vscript
+Microsoft PowerPoint
+Volunteer Experience
+volunteer  at   Bhumi
+October 2011  -  Present
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Madhushree Prabhakar
+Experience
+Solution Integrator  at   Ericsson
+November 2015  -  Present (1 year 5 months)
+Skills
+C
+Core Java
+Perl
+SQL
+BMC Remedy AR System
+C++
+Microsoft Office
+
+Madhushree Prabhakar
+Solution Integrator at Ericsson
+Contact Madhushree on LinkedIn
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Mahantesh Ajjampur Shetru
+Experience
+Manager Technology  at   Sapient
+August 2016  -  Present (8 months)
+Senior Associate Technology L2  at   Sapient
+January 2014  -  July 2016  (2 years 7 months)
+Senior Associate Technology L1  at   Sapient
+October 2011  -  December 2013  (2 years 3 months)
+Associate Technology L2  at   Sapient
+October 2009  -  September 2011  (2 years)
+Engineer  at   MindTree Ltd.
+October 2007  -  September 2009  (2 years)
+Skills
+Web Services
+Java Enterprise Edition
+Struts
+Requirements Analysis
+Core Java
+JSP
+Oracle
+Spring
+Servlets
+C
+SOA
+Weblogic
+
+Education
+Engineering
+
+
+##########
+Name
+Malavika Sharma
+Experience
+Sr.Sales Excellence Manager, Asia-Pacific Region & Greater China Region  at   Microsoft
+January 2012  -  Present (5 years 3 months)
+Business Excellence Manager, India  at   Microsoft
+January 2010  -  December 2012  (3 years)
+Media Manager, Microsoft Media Network  at   Microsoft
+July 2008  -  January 2010  (1 year 7 months)
+Media Strategist, Microsoft Digital Advertising Solutions  at   Microsoft
+January 2006  -  June 2008  (2 years 6 months)
+Media Group Head  at   Madison World
+January 2005  -  December 2005  (1 year)
+Sr.Media Planner  at   Universal Mccann
+January 2003  -  January 2005  (2 years 1 month)
+Media Planner  at   Mindshare
+July 2002  -  December 2003  (1 year 6 months)
+Marketing Services Manager  at   Zee Telefilms Ltd
+July 1999  -  June 2002  (3 years)
+Sr.Sales Excellence Manager, Asia-Pacific Region & Greater China Region  at   Microsoft
+January 2012  -  Present (5 years 3 months)
+Business Excellence Manager, India  at   Microsoft
+January 2010  -  December 2012  (3 years)
+Media Manager, Microsoft Media Network  at   Microsoft
+July 2008  -  January 2010  (1 year 7 months)
+Media Strategist, Microsoft Digital Advertising Solutions  at   Microsoft
+January 2006  -  June 2008  (2 years 6 months)
+Media Group Head  at   Madison World
+January 2005  -  December 2005  (1 year)
+Sr.Media Planner  at   Universal Mccann
+January 2003  -  January 2005  (2 years 1 month)
+Media Planner  at   Mindshare
+July 2002  -  December 2003  (1 year 6 months)
+Marketing Services Manager  at   Zee Telefilms Ltd
+July 1999  -  June 2002  (3 years)
+Skills
+Digital Strategy
+Digital Media
+Business Intelligence
+Business Operations
+Advertising Sales
+CRM
+Sales Process
+Analytics
+Sales Strategy
+Sales Operations
+Ad Exchanges
+Ad Networks
+Revenue Cycle Management
+Segmentation
+Pipeline Management
+Business Process Improvement
+Yield Management
+Real-Time Bidding
+Business Planning
+
+Account Management
+Advertising
+Strategy
+Business Development
+Strategic Partnerships
+Digital Marketing
+Online Advertising
+
+Education
+Master of Business Administration (M.B.A.)
+
+
+##########
+Name
+Mani P S
+Experience
+Associate Developer  at   SAP
+March 2017  -  Present (1 month)
+Scholar at Core platform ABAP server  at   SAP
+August 2015  -  March 2017  (1 year 8 months)
+Skills
+SAPUI5
+JavaScript
+Sap Fiori
+sap s/4 hana
+SAP HANA
+sap abap
+nodejs
+C
+C++
+Java
+SQL
+
+Programming
+MySQL
+Linux
+PHP
+C#
+
+Education
+Engineering
+Engineering
+
+
+##########
+Name
+Megharaj Mogaveer
+Experience
+Testing Executive  at   Infosys
+September 2016  -  Present (7 months)
+Skills
+Python
+MySQL
+RDBMS
+C#
+Java
+HTML5
+Selenium Testing
+ASP.NET
+JMeter
+Cascading Style Sheets (CSS)
+Selenium WebDriver
+Testing
+SQL
+HTML
+Microsoft SQL Server
+C
+C++
+Manual Testing
+Microsoft Office
+JavaScript
+Teamwork
+
+Megharaj Mogaveer
+Testing Executive at Infosys
+Contact Megharaj on LinkedIn
+
+Education
+
+
+##########
+Name
+MEHUL SHAH
+Experience
+Technology Strategist  at   Microsoft
+November 2016  -  Present (5 months)
+Sr. Technical Account Manager  at   Microsoft
+July 2015  -  November 2016  (1 year 5 months)
+Partner Technical Consultant Manager  at   Microsoft
+March 2011  -  July 2015  (4 years 5 months)
+Team Lead  at   Sungard Global Services
+July 2010  -  March 2011  (9 months)
+Sr. Team Manager  at   Convergys India Services
+March 2004  -  July 2010  (6 years 5 months)
+Skills
+Service Delivery
+IT Service Management
+Windows Server
+Cloud Computing
+ITIL
+Enterprise Software
+People Management
+Team Management
+Information Technology
+Incident Management
+Technical Support
+Project Management
+Consulting
+Vendor Management
+Employee Engagement
+Business Development
+Management
+IT Service Delivery
+Customer Relations
+Service Delivery Management
+Business Process Improvement
+Customer Relationship Management (CRM)
+Business Process Design
+Stakeholder Engagement
+Customer Engagement
+IT Strategy
+Pre-sales
+Microsoft Technologies
+
+Business Strategy
+Requirements Analysis
+Strategy
+
+Education
+Bachelor of Science
+
+
+##########
+Name
+Mohammed Fazal
+Experience
+Interactive Developer  at   Sapient
+June 2014  -  Present (2 years 10 months)
+Autonomous Pick and place robot
+November 2012 to Present
+SNOW RESCUER
+February 2013 to March 2013
+END-FIRE ARRAY SYNTHESIS AND DESIGN OF FEED NETWORK
+May 2013 to May 2014
+Skills
+HTML
+JavaScript
+Cascading Style Sheets (CSS)
+CSS Sprites
+C
+Matlab
+C++
+Microsoft Office
+Programming
+Market Research
+Java
+PowerPoint
+Microsoft Excel
+Microsoft Word
+Python
+Verilog
+Linux
+AngularJS
+
+Education
+Engineering
+
+
+##########
+Name
+Mohan Sreeram
+Experience
+Technical Lead  at   Cisco
+December 2014  -  Present (2 years 4 months)
+Senior Software Engineer  at   NDS services Pay TV Technology
+March 2011  -  November 2014  (3 years 9 months)
+Software Engineer  at   NDS services Pay TV Technology
+August 2007  -  March 2011  (3 years 8 months)
+Skills
+Android Development
+Agile Methodologies
+HTML 5
+JavaScript
+DRM
+Design Patterns
+Streaming Media
+Java
+Software Design
+Set Top Box
+Web Applications
+Digital TV
+DVB
+VOD
+C#
+ASP.NET
+SQL
+EPG
+Microsoft SQL Server
+XML
+HTML5
+
+
+Education
+Engineering
+Engineering
+
+
+##########
+Name
+Nagaraja Bhat T R
+Experience
+Testing Executive  at   Infosys limited
+September 2016  -  Present (7 months)
+Skills
+Microsoft Office
+Customer Service
+Management
+Microsoft Excel
+Microsoft Word
+Leadership
+PowerPoint
+Research
+Public Speaking
+Project Management
+
+Nagaraja Bhat T R
+Infosys Limited
+Contact Nagaraja on LinkedIn
+
+Education
+
+
+##########
+Name
+Namitha Sudheendra
+Experience
+Associate Developer  at   SAP
+January 2016  -  Present (1 year 3 months)
+Project Intern  at   ISRO Satellite Centre
+January 2015  -  April 2015  (4 months)
+Engineering Intern  at   Sienna ECAD Technologies Private Limited
+June 2014  -  July 2014  (2 months)
+Skills
+C
+C++
+ABAP
+Object-Oriented Programming (OOP)
+HTML
+
+Education
+Bachelor’s Degree
+Engineering
+
+
+##########
+Name
+Nilesh Sinha
+Experience
+
+Skills
+Microsoft Office
+C
+C++
+Project Management
+Java
+HTML
+Programming
+SQL
+MySQL
+Cascading Style Sheets (CSS)
+JavaScript
+React.js
+jQuery
+jQuery UI
+SASS
+AngularJS
+
+Nilesh Sinha
+Interactive Developer
+Contact Nilesh on LinkedIn
+
+Education
+Bachelor’s Degree
+Engineering
+
+
+##########
+Name
+Niru Rai
+Experience
+Project Manager  at   Cisco Systems
+October 2013  -  Present (3 years 6 months)
+HR [Campus Recruiter]  at   Cisco Systems
+October 2009  -  September 2013  (4 years)
+Talent Acquisition Specialist  at   Thomson Reuters
+January 2009  -  September 2009  (9 months)
+Skills
+Human Resources
+Technical Recruiting
+Talent Acquisition
+
+Screening
+Benefits Negotiation
+Recruiting
+HRIS
+Talent Management
+IT Solutions
+Internet Recruiting
+Employee Engagement
+Sourcing
+Screening Resumes
+Applicant Tracking Systems
+Vendor Management
+IT Recruitment
+
+Education
+
+
+##########
+Name
+NITHIN SRINIVAS
+Experience
+Senior Industrial Engineer  at   Bosch
+November 2016  -  Present (5 months)
+Graduate apperientice trainee  at   Bosch
+October 2015  -  October 2016  (1 year 1 month)
+Associate Software Engineer  at   Tech Mahindra
+July 2015  -  October 2015  (4 months)
+Project Intern  at   HMT Limited
+January 2015  -  May 2015  (5 months)
+Intern  at   JSW Steel Ltd
+July 2014  -  August 2014  (2 months)
+Skills
+Team Management
+CAM
+ANSYS
+Solid Edge
+Team Leadership
+Strategic Planning
+Anchoring
+Organizational Leadership
+Management
+Supply Chain Management
+Work Sampling
+Ergonomics
+Process Planning
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Nitish Kamal
+Experience
+Senior System Engineer  at   Infosys
+July 2016  -  Present (9 months)
+System Engineer  at   Infosys
+June 2014  -  Present (2 years 10 months)
+System Engineer  at   Infosys
+October 2014  -  June 2015  (9 months)
+Summer Intern  at   ANG Auto Ltd
+June 2013  -  July 2013  (2 months)
+Summer Trainee  at   Usha Martin Ltd.
+June 2012  -  July 2012  (2 months)
+summer training  at   heavy engineering corporation
+June 2011  -  July 2011  (2 months)
+Skills
+HTML
+JavaScript
+Databases
+C#
+.NET
+ADO.NET
+ASP.NET
+Microsoft SQL Server
+SoapUI
+Microsoft CRM
+Visual Studio
+WCF Services
+Plugins
+MS CRM 2011
+MS Crm 2015
+ms crm 2016
+MS CRM 2013
+
+Education
+
+
+##########
+Name
+Palle Kashyap
+Experience
+Programmer Analyst  at   Cognizant
+December 2015  -  Present (1 year 4 months)
+Executive Body Member  at   ROBOLUTION
+August 2012  -  August 2015  (3 years 1 month)
+Volunteer  at   N.S.S
+August 2011  -  April 2013  (1 year 9 months)
+ConWoIn
+August 2014 to Present
+Student Registration Portal Module
+March 2016 to April 2016
+Core Banking Services Module for Online Banking Solution using TIBCO BW
+April 2016 to May 2016
+Skills
+Core Java
+C
+SQL
+C++
+Programming
+Matlab
+Microcontrollers
+Robotics
+Microsoft Office
+Microsoft Excel
+Electronics
+Verilog
+VHDL
+Python
+PowerPoint
+multisim
+Xilinx ISE
+AVR Studio 4
+
+IAR Embedded Workbench
+Analog Circuits
+digital logic design
+Microprocessors
+Data Structures
+Windows
+Java
+Algorithms
+Microsoft Word
+
+Education
+Bachelor’s Degree
+Engineering
+
+
+##########
+Name
+Paresh Jain
+Experience
+General Manager - HR  at   Accenture
+May 2015  -  Present (1 year 11 months)
+Human Resources Manager  at   GE Healthcare
+October 2012  -  May 2015  (2 years 8 months)
+Human Resources Leader  at   GE Energy (Information Management)
+March 2011  -  October 2012  (1 year 8 months)
+Senior Specialist - Compensation & Benefits  at   Accenture
+November 2009  -  March 2011  (1 year 5 months)
+Human Resources Specialist (HR Generalist)  at   Accenture
+November 2007  -  November 2009  (2 years 1 month)
+Senior Analyst - Sourcing Planning (Talent Acquisition)  at   Accenture
+April 2006  -  November 2007  (1 year 8 months)
+Manager - Human Resources (HR Generalist)  at   Arvind Mills Ltd.
+September 2005  -  April 2006  (8 months)
+Manager - HR (Compensation & Benefits)  at   Arvind Mills Ltd.
+April 2004  -  September 2005  (1 year 6 months)
+Skills
+Talent Acquistion
+Compensation and Benefits
+HR Business Partner
+Talent Management
+Coaching
+Mentoring
+Talent Acquisition
+Performance Management
+Human Resources
+Personnel Management
+Recruiting
+Deferred Compensation
+Management
+Leadership
+Program Management
+Time Management
+Employee Engagement
+HRIS
+HR Policies
+Employee Relations
+HR Consulting
+Performance Appraisal
+HR Transformation
+Strategic HR
+Succession Planning
+Team Management
+Strategy
+
+Outsourcing
+Vendor Management
+Business Development
+Sourcing
+Change Management
+
+Education
+MBA
+BA
+
+
+##########
+Name
+Paul Mathew
+Experience
+Management Consultant  at   KPMG
+February 2012  -  Present (5 years 2 months)
+Product Marketing Head - Acquisitions & Usage and Retention  at   Aircel
+March 2011  -  February 2012  (1 year)
+Business Analyst to Chief Executive Officer  at   Bharti Airtel Limited
+February 2010  -  March 2011  (1 year 2 months)
+Product Manager - Value Added Services & Head – Public Relations  at   Bharti Airtel Limited
+October 2009  -  November 2010  (1 year 2 months)
+Buisness Analysto to COO - Kerala  at   Bharti Airtel Ltd
+February 2008  -  November 2010  (2 years 10 months)
+Product Marketing & Sales Operation  at   Bharti Airtel Limited
+March 2006  -  February 2008  (2 years)
+Sales Manager - Small & Medium Industries, Bangalore  at   Bharti Airtel Limited
+February 2005  -  March 2006  (1 year 2 months)
+Large Accounts Manager  at   Idea Cellular
+June 2004  -  February 2005  (9 months)
+Distribution & Channel Management - Prepaid Sales  at   Idea Cellular Ltd
+June 2002  -  May 2004  (2 years)
+Skills
+Retail
+Segments
+Strategic Planning
+Product Marketing
+Forecasting
+Budget
+
+Telecommunications
+Product Management
+Team Management
+Key Account Management
+Business Development
+Competitive Analysis
+Sales Operations
+Vendor Management
+VAS
+Channel
+Business Strategy
+Business Continuity Planning
+Management
+Channel Partners
+Wireless
+Management Consulting
+Business Analysis
+Enterprise Software
+Analytics
+Marketing Analytics
+Product Development
+Team Leadership
+Budgets
+Consulting
+Go-to-market Strategy
+E-commerce
+Strategy
+Business Intelligence
+Account Management
+Pharmaceutical Industry
+Retail Banking
+Big Data Analytics
+Video Analytics
+real time analytics
+advanced analytics
+
+Education
+
+
+##########
+Name
+Pooja Sathyanarayana Bhat
+Experience
+Project Planner  at   Ericsson
+October 2015  -  Present (1 year 6 months)
+Skills
+Microsoft Office
+PowerPoint
+Microsoft Word
+SharePoint
+excel vba
+C
+Matlab
+Electronics
+Programming
+C++
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Pooja U Tata
+Experience
+Engineer.IT Engineering  at   Cisco
+August 2016  -  Present (8 months)
+Intern  at   Center for Cloud Computing and Big Data
+June 2014  -  October 2016  (2 years 5 months)
+Intern IT Engineer  at   Cisco
+January 2016  -  June 2016  (6 months)
+Member Technical Staff  at   Ordell Ugo
+August 2013  -  May 2016  (2 years 10 months)
+Summer Intern  at   EMC
+June 2015  -  July 2015  (2 months)
+Skills
+C
+Java
+Python
+C++
+Data Structures
+Algorithms
+Databases
+Programming
+MySQL
+MongoDB
+JavaScript
+HTML
+Linux
+Android SDK
+Microsoft Office
+SQL
+PHP
+HTML5
+Microsoft Word
+PowerPoint
+Android Development
+
+Android
+jQuery
+Computer Networking
+
+Education
+Engineering
+
+
+##########
+Name
+Prabhu Shanmugavelu
+Experience
+Software Engineer  at   Cisco Systems
+January 2012  -  Present (5 years 3 months)
+Technical lead  at   Wipro Technologies
+December 2006  -  January 2012  (5 years 2 months)
+Project Engineer at TCNE  at   Kalasalingam University
+June 2005  -  December 2006  (1 year 7 months)
+Skills
+IP Multicast
+IGMP Snooping
+MVPN
+PIM-SM
+Routing Protocols
+OSPF
+Network Engineering
+Catalyst Switches
+Cisco Routers
+VLAN
+RIP
+Testing
+TCP/IP
+Shell Scripting
+Routing
+Firewalls
+Requirements Analysis
+Switches
+Networking
+Internet Protocol Suite (TCP/IP)
+
+Education
+Engineering
+Engineering
+Engineering
+Engineering
+
+
+##########
+Name
+Pranav Wagh
+Experience
+Escalation Engineer  at   Microsoft India
+January 2014  -  Present (3 years 3 months)
+Support Escalation Engineer  at   Microsoft India
+November 2010  -  January 2014  (3 years 3 months)
+Technical Leader  at   Microsoft India
+August 2008  -  November 2010  (2 years 4 months)
+Developer Support Engineer  at   Microsoft India
+January 2005  -  August 2008  (3 years 8 months)
+Team Leader/Software Engineer  at   Shesha Computers
+April 2003  -  December 2004  (1 year 9 months)
+Software Developer/Computer Programmer/Assistant Programmer  at   Intsoft/ Wintech
+February 2001  -  April 2003  (2 years 3 months)
+Lab Incharge/ Faculty  at   Dugar Computers
+July 1999  -  January 2001  (1 year 7 months)
+Microsoft India (R & D) Pvt. Ltd.
+October 2006
+Microsoft India (R & D) Pvt. Ltd.
+October 2008
+Skills
+C#
+.NET
+Debugging
+WinDbg
+VSTO
+Windows Phone
+COM Addins
+Office Programmability
+IIS
+ASP.NET
+Web Services
+VB.NET
+C++
+SharePoint
+Microsoft SQL Server
+Databases
+Microsoft Technologies
+Visual Studio
+SQL
+.NET Framework
+Cloud Computing
+Internet Information Services (IIS)
+Microsoft Products
+
+
+Education
+
+
+##########
+Name
+Pravardhan Kalkur
+Experience
+Network Consulting Engineer  at   Cisco Systems
+July 2013  -  Present (3 years 9 months)
+Graduate Student at BITS Pilani  at   BITS-PILANI
+September 2016  -  Present (7 months)
+Intern  at   Cisco Systems
+January 2013  -  June 2013  (6 months)
+Skills
+Networking
+Cisco IOS
+IOS-XR
+TCP/IP
+IGP
+BGP
+MPLS
+MPLS VPN
+Routing
+Switching
+QoS
+IP Multicast
+Python
+C
+C++
+VHDL
+Xilinx
+RIP
+OSPF
+EIGRP
+IS-IS
+GNS3
+Microcontrollers
+Embedded Systems
+DSP Processors
+VLSI
+Matlab
+Routing Protocols
+CCNP
+
+Education
+Engineering
+
+
+##########
+Name
+Praveen Gore
+Experience
+Principal Consultant  at   Infosys
+October 2015  -  Present (1 year 6 months)
+Staff Engineer  at   Qualcomm
+September 2014  -  September 2015  (1 year 1 month)
+Lead Engineer, Senior  at   Qualcomm
+June 2012  -  September 2014  (2 years 4 months)
+Technical Lead  at   Wipro Technologies
+November 2010  -  June 2012  (1 year 8 months)
+Member of Technical Staff  at   Karnataka Microelectronic Design Centre
+June 2004  -  November 2010  (6 years 6 months)
+Skills
+Automation
+Shell Scripting
+Perl
+Unix Shell Scripting
+TCL
+Physical Design
+Timing Closure
+ASIC
+Static Timing Analysis
+Debugging
+VLSI
+Integrated Circuit Design
+Verilog
+Testing
+Microprocessors
+EDA
+SoC
+Logic Synthesis
+SystemVerilog
+DRC
+Functional Verification
+ARM
+Semiconductors
+RTL design
+Cadence Virtuoso
+Mixed Signal
+LVS
+RTL coding
+IC
+ModelSim
+
+VHDL
+NCSim
+CMOS
+Analog
+Very-Large-Scale Integration (VLSI)
+Application-Specific Integrated Circuits (ASIC)
+System on a Chip (SoC)
+
+Education
+
+
+##########
+Name
+Pravin Shenoy
+Experience
+Senior System Engineer  at   Infosys
+January 2017  -  Present (3 months)
+System Engineer  at   Infosys
+April 2015  -  December 2016  (1 year 9 months)
+System Engineer Trainee  at   Infosys
+December 2014  -  March 2015  (4 months)
+Skills
+SQL
+Object-Oriented Programming (OOP)
+Core Java
+HTML5
+Cascading Style Sheets (CSS)
+JavaScript
+Bootstrap
+AngularJS
+Hibernate
+Java Database Connectivity (JDBC)
+JavaServer Faces (JSF)
+JavaServer Pages (JSP)
+RESTful WebServices
+Python
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Raghavendra Kamma
+Experience
+Senior Software Engineer  at   Bosch
+October 2016  -  Present (6 months)
+Senior Software Engineer  at   Robert Bosch (Australia) Pty. Ltd.
+January 2017  -  February 2017  (2 months)
+Associate Software Engineer  at   Bosch
+June 2014  -  September 2016  (2 years 4 months)
+Software Engineering Intern  at   Bosch
+January 2014  -  May 2014  (5 months)
+Student Intern  at   Bharat Sanchar Nigam Limited
+June 2013  -  July 2013  (2 months)
+Robust Control of Robot Manipulator using Uncertainty and Disturbance Estimation
+January 2014 to April 2014
+Bluetooth Test Automation
+January 2014 to May 2014
+Skills
+Embedded Systems
+Microcontrollers
+Embedded C
+Electronics
+Verilog
+C
+Programming
+VHDL
+Amateur Photographer
+Python
+Bluetooth
+WiFi
+MirrorLink
+
+CarPlay
+Wireless
+Testing
+Telecommunications
+Test Automation
+Robotics
+Automation
+Microprocessors
+System Testing
+Automotive
+Matlab
+Microsoft Office
+Android
+Simulink
+Microsoft PowerPoint
+C++
+
+Education
+Engineering
+
+
+##########
+Name
+Ravi Sudhakar Kambhampati
+Experience
+Sr. Sales and Technology Strategist (Large GSI)  at   Microsoft
+January 2016  -  Present (1 year 3 months)
+Sales and Technology Strategist (Large GSI  at   Microsoft
+October 2014  -  Present (2 years 6 months)
+Sr. Business Development Manager- Banking/FSI  at   Microsoft
+January 2013  -  October 2014  (1 year 10 months)
+Business Development Manager- Banking/FSI  at   Microsoft
+February 2012  -  January 2013  (1 year)
+Senior Services Account Manager (Large GSI)  at   Microsoft
+October 2008  -  February 2012  (3 years 5 months)
+Senior Consultant  at   Microsoft
+September 2007  -  September 2008  (1 year 1 month)
+Escalation Engineer  at   Microsoft
+January 2005  -  September 2007  (2 years 9 months)
+Technical Lead  at   Microsoft
+September 2004  -  January 2005  (5 months)
+SQL Server Developer Support Engineer  at   Microsoft
+January 2004  -  August 2004  (8 months)
+Product Release Manager  at   Tata Consultancy Services
+March 2003  -  January 2004  (11 months)
+Testing Lead and Release Manager  at   Tata Consultancy Services
+July 2002  -  March 2003  (9 months)
+Member of Technical Staff  at   Tata Consultancy Services
+June 2000  -  June 2001  (1 year 1 month)
+Skills
+IT Strategy
+Pre-sales
+Management
+Cloud Computing
+Business Development
+Management Consulting
+Consulting
+Solution Architecture
+Enterprise Architecture
+Service Delivery
+Enterprise Software
+SDLC
+Leadership
+Sales
+Software Consulting
+Consultative Selling
+Team Management
+Strategy
+Process Excellence
+Software Project Management
+New Business Development
+
+Vendor Management
+Sales Management
+IaaS
+PaaS
+SaaS
+Azure
+Databases
+Presentation Skills
+Persuasive Presentations
+Office 365
+Software as a Service (SaaS)
+Business Strategy
+Software Development Life Cycle (SDLC)
+Go-to-market Strategy
+Team Leadership
+Account Management
+Microsoft Products
+Partner Management
+Strategic Partnerships
+Business Alliances
+Business Intelligence
+Project Management
+Customer Relationship Management (CRM)
+Program Management
+Microsoft SQL Server
+Business Analysis
+Integration
+ITIL
+IT Service Management
+
+Education
+General Management
+Engineering
+
+
+##########
+Name
+Ravi J
+Experience
+Senior R & D Engineer  at   Bosch
+March 2011  -  Present (6 years 1 month)
+Senior Design Engineer  at   Nissan Motor Manufacturing Ltd.
+April 2009  -  March 2011  (2 years)
+Engineer Design  at   Tata Group
+August 2007  -  March 2009  (1 year 8 months)
+Skills
+Catia v5
+Solid Edge
+Unigraphics
+Engineering
+Teamcenter
+Automotive
+Product Design
+GD&T
+Pro Engineer
+Product Development
+Catia
+Finite Element Analysis
+ANSYS
+Solidworks
+Automotive Engineering
+Mechanical Engineering
+Sheet Metal
+Design for Manufacturing
+CATIA
+SolidWorks
+NX Unigraphics
+PTC Creo
+Geometric Dimensioning & Tolerancing
+Manufacturing
+CAD
+FMEA
+
+
+Education
+Engineering
+
+
+##########
+Name
+Ravindra Nagaraja
+Experience
+Vice President - India Talent Acquisition Shared Services  at   Accenture
+April 2016  -  Present (1 year)
+Vice President - Client Relationship Lead  at   Accenture
+May 2015  -  April 2016  (1 year)
+Vice President - Global Service Delivery Lead  at   Accenture
+September 2013  -  June 2015  (1 year 10 months)
+GM - Learning Service Delivery and Training Administration  at   Accenture
+March 2010  -  August 2013  (3 years 6 months)
+Manager - Learning Scheduling & Administration  at   Accenture India Services
+June 2007  -  February 2010  (2 years 9 months)
+Manager Operations  at   Convergys
+April 2003  -  January 2007  (3 years 10 months)
+Team Lead - Operations  at   e4e Inc (Formerly known as iSeva Systems)
+November 2001  -  April 2003  (1 year 6 months)
+Programmer  at   Infoniche Technologies Pvt Ltd
+January 2000  -  October 2001  (1 year 10 months)
+Skills
+Team Management
+Order Management
+Transition Management
+Process Improvement
+CRM
+Call Center
+Management
+Contract Negotiation
+Six Sigma
+
+Change Management
+Service Delivery
+BPO
+Analysis
+Business Strategy
+Business Analysis
+Business Development
+Leadership
+Business Process Improvement
+Project Management
+Performance Management
+Program Management
+Training
+Vendor Management
+ITIL
+Operations Management
+Customer Relationship Management (CRM)
+Outsourcing
+Business Process Outsourcing (BPO)
+Call Centers
+IT Service Management
+Quality Assurance
+Contact Centers
+
+Education
+B Sc
+Bachelor of Science
+
+
+##########
+Name
+Revathi M P
+Experience
+Product Owner SAP ILM  at   SAP
+December 2016  -  Present (4 months)
+Senior Developer  at   SAP Labs India
+January 2013  -  November 2016  (3 years 11 months)
+Principal Software Engineer  at   SAP Labs
+August 2010  -  January 2013  (2 years 6 months)
+Sr. Software Engineer  at   SAP Labs
+April 2006  -  October 2010  (4 years 7 months)
+Development Specalist  at   SAP Labs India
+April 2006  -  June 2008  (2 years 3 months)
+Skills
+ABAP-OO
+ABAP Web Dynpro
+SAP Information Life Cycle Management
+SAP Enhancement Framework
+SAP Data Archiving
+SAP BW
+Java
+Agile Methodologies
+SAP
+Testing
+Software Development
+
+C
+Spring
+Process orchestration
+
+Education
+Engineering
+
+
+##########
+Name
+Roopika Srinivas
+Experience
+Associate Quality Engineer  at   SAP Labs India PVT. LTD.
+July 2014  -  Present (2 years 9 months)
+ App also using Appium and Junit/TestNG test cases.
+April 2015 – April 2016 : Afaria On Premise (Web Portal) Automation using .Net Selenium Framework and
+Placement Coordinator  at   UVCE
+March 2013  -  June 2014
+Placement Volunteer UVCE for TCS Campus Recruitment  at   Placement Volunteer, UVCE
+September 2012  -  Present
+Skills
+Java
+JavaScript
+C
+HTML5
+C++
+PHP
+MySQL
+Selenium WebDriver
+Eclipse
+SAPUI5
+DBMS
+SQL
+Data Structures
+Operating Systems
+Testing
+Linux
+Microsoft Office
+XML
+Windows
+
+Education
+Engineering
+Engineering
+
+
+##########
+Name
+Sander van 't Noordende
+Experience
+Group Chief Executive Products Operating Group  at   Accenture
+January 2014  -  Present (3 years 3 months)
+Board Member  at   Avanade
+April 2015  -  Present (2 years)
+Group Chief Executive Management Consulting  at   Accenture
+March 2011  -  December 2013  (2 years 10 months)
+Group Chief Executive Resources  at   Accenture
+September 2006  -  February 2011  (4 years 6 months)
+Client Service Group Managing Partner  at   Accenture
+September 2003  -  September 2006  (3 years 1 month)
+Country Managing Director The Netherlands  at   Accenture
+September 2001  -  September 2006  (5 years 1 month)
+Partner  at   Accenture
+September 1999  -  September 2001  (2 years 1 month)
+October 1987  -  September 1999  (12 years)
+Skills
+Strategy
+Management Consulting
+Outsourcing
+Business Development
+Management
+CRM
+Leadership
+Consulting
+Enterprise Software
+Energy
+Finance
+Sustainability
+Business Transformation
+Change Management
+Business Strategy
+Business Process Improvement
+Business Analysis
+Program Management
+Project Management
+Business Process
+IT Strategy
+Business Intelligence
+Professional Services
+Strategic Planning
+Executive Management
+
+ERP
+Integration
+Governance
+Mergers & Acquisitions
+
+Education
+Engineering
+
+
+##########
+Name
+Sandhya Rani
+Experience
+Programmer Analyst  at   Cognizant Technology Solutions
+January 2015  -  Present (2 years 3 months)
+Skills
+C
+Microsoft Office
+PowerPoint
+SQL
+
+Education
+Engineering
+
+
+##########
+Name
+Sanketh Kamath
+Experience
+Programmer Analyst  at   Cognizant Technology Solutions
+October 2013  -  Present (3 years 6 months)
+Skills
+Java
+C
+C++
+HTML
+Microsoft Word
+Linux
+SQL
+PowerPoint
+Microsoft Excel
+Core Java
+Windows
+JavaScript
+MySQL
+CSS
+Adobe Experience Manager
+
+Education
+
+
+##########
+Name
+Sheethal J
+Experience
+Associate Manager  at   Accenture
+September 2006  -  Present (10 years 7 months)
+Associate Manager ( Technical Architect)  at   Accenture
+July 2016  -  Present (9 months)
+March 2016  -  June 2016  (4 months)
+Technical Lead  at   Accenture
+October 2015  -  February 2016  (5 months)
+Ops Lead  at   Accenture
+July 2015  -  September 2015  (3 months)
+Build Lead (Systems Analyst/Team Lead)  at   Accenture
+September 2013  -  June 2015  (1 year 10 months)
+Build Lead  at   Accenture
+September 2012  -  August 2013  (1 year)
+Senior Software Engineer (Analyst Programmer)  at   Accenture
+February 2010  -  August 2012  (2 years 7 months)
+Software Engineer (Senior Programmer)  at   Accenture
+December 2007  -  February 2010  (2 years 3 months)
+Associate Software Engineer (Programmer)  at   Accenture
+September 2006  -  November 2007  (1 year 3 months)
+Skills
+SQL
+Microsoft SQL Server
+Data Synchronization
+Requirements Analysis
+SDLC
+
+PL/SQL
+Software Development Life Cycle (SDLC)
+Agile Methodologies
+Project Management
+Project Planning
+Web Services
+Business Analysis
+Business Requirements
+Software Documentation
+Visio
+Project Estimation
+C#
+Scheduling
+Microsoft Sync Framework
+Requirements Gathering
+Software Development
+
+Education
+Master’s Degree
+Bachelor’s Degree
+
+
+##########
+Name
+Shireesha Abhilash
+Experience
+Specialist  at   Bosch
+September 2015  -  Present (1 year 7 months)
+Senior Engineer  at   GKN Aerospace
+October 2012  -  March 2014  (1 year 6 months)
+CAE Senior Engineer  at   Volvo Aero Corporation
+December 2010  -  September 2012  (1 year 10 months)
+Stress Analysis Engineer  at   GE Energy
+June 2007  -  December 2010  (3 years 7 months)
+Skills
+Unigraphics
+Turbines
+Stress Analysis
+ANSYS
+Structural Engineering
+
+Aerospace Engineering
+CAE
+Fatigue Analysis
+Pro Engineer
+Hypermesh
+Engineering Design
+Gas Turbines
+Finite Element Analysis
+Engineering
+Structural Analysis
+Solid Mechanics
+MSC.Patran
+Nastran
+
+Education
+Engineering
+Engineering
+BTech
+
+
+##########
+Name
+Shivesh Kumar Jha
+Experience
+Sr Associate  at   Sapient
+August 2016  -  Present (8 months)
+Software Engineer  at   Accenture
+March 2014  -  July 2016  (2 years 5 months)
+Software Development Analyst  at   Dell
+December 2012  -  February 2014  (1 year 3 months)
+Shivesh kumar jha  at   Moser Baer India Ltd
+April 2010  -  October 2012  (2 years 7 months)
+Skills
+JavaScript
+Programming
+Web Services
+SQL
+HTML
+ASP.NET
+Microsoft SQL Server
+C#
+Oracle 11g
+WCF
+Visual Studio 2012/2010/2005
+TFS
+SSRS 2008
+MVC 4
+jQuery
+Software Development
+PL/SQL
+.NET
+Oracle
+SSRS
+
+Education
+
+
+##########
+Name
+Shristi Drolia
+Experience
+Development Associate Consultant  at   SAP
+August 2016  -  Present (8 months)
+Skills
+C
+C++
+HTML
+MySQL
+Java
+Microsoft Office
+Programming
+CSS
+PowerPoint
+Dance
+Databases
+Leadership
+SQL
+PHP
+Python
+JavaScript
+Team Management
+Linux
+Volunteer Experience
+Organizer  at   OUR HOME NGO
+
+
+Education
+Engineering
+BA
+Bachelor’s Degree
+
+
+##########
+Name
+Shruthi Thirugnanam
+Experience
+Associate  at   Cognizant
+May 2016  -  Present (11 months)
+Software Engineering analyst  at   Accenture
+February 2013  -  May 2016  (3 years 4 months)
+Skills
+C
+SQL
+Functional Testing
+Manual Testing
+Testing
+MySQL
+RDBMS
+
+Requirements Analysis
+Quality Center
+Regression Testing
+System Testing
+Integration Testing
+ETL testing
+Database Testing
+Data warehouse testing
+Netezza
+Microsoft SQL Server
+Test Preparation
+Test Execution
+Agile Testing
+Big data testing
+Report testing
+
+Education
+Engineering
+
+
+##########
+Name
+Shwetha Nairy
+Experience
+Sr Software engineer  at   SAP Labs
+July 2008  -  Present (8 years 9 months)
+Software engineer  at   Aditi Technologies
+July 2007  -  July 2008  (1 year 1 month)
+Software engineer  at   Aditi Technologies
+July 2007  -  June 2008  (1 year)
+Skills
+Banking
+ABAP
+Requirements Analysis
+Software Development
+XML
+Agile Methodologies
+JavaScript
+Design Thinking
+Sap Fiori
+Java
+Test Driven Development
+Customer Experience
+OData
+Scrum
+
+Education
+
+
+##########
+Name
+Sivasankari Ramamurthy
+Experience
+Senior Manager Tech  at   Sapient
+January 2014  -  Present (3 years 3 months)
+Manager ,Technology  at   Sapient Global Markets
+March 2005  -  December 2013  (8 years 10 months)
+Tech Lead  at   IBM Global Services India Ltd
+February 2003  -  March 2005  (2 years 2 months)
+Member of Techncal Staff  at   Savvion India Ltd
+September 2000  -  January 2003  (2 years 5 months)
+Skills
+Enterprise Architecture
+Agile Methodologies
+Java Enterprise Edition
+Requirements Analysis
+Software Development
+Oracle
+SOA
+SDLC
+Microsoft SQL Server
+Software Project Management
+Solution Architecture
+Web Services
+SQL
+Business Analysis
+XML
+Volunteer Experience
+Life member and volunteer, Former School Head  at   Aashayein Foundation
+May 2010  -  Present
+
+Sivasankari Ramamurthy
+Senior Manager Technology at Sapient Global Markets
+Contact Sivasankari on LinkedIn
+
+Education
+
+
+##########
+Name
+Sonal Sachdev
+Experience
+Senior Associate, Hiring  at   Sapient
+January 2016  -  Present (1 year 3 months)
+Deputy Manager - HRD  at   NDTV
+April 2015  -  October 2015  (7 months)
+Manager - Human Resources  at   Thomas Cook (India) Ltd
+September 2012  -  April 2015  (2 years 8 months)
+Senior Executive - Human Resources  at   AbsolutData Analytics
+December 2011  -  September 2012  (10 months)
+Human Resources  at   Copal Partners
+February 2010  -  December 2011  (1 year 11 months)
+Associate Consultant-Energy  at   Manpower Professionals
+July 2007  -  February 2010  (2 years 8 months)
+Skills
+Talent Acquisition
+Human Resources
+Social Networking
+Recruiting
+Hiring
+Internet Recruiting
+
+Education
+MBA
+BA
+
+
+##########
+Name
+Srinivas PBS
+Experience
+Director  at   KPMG
+April 2015  -  Present (2 years)
+Member  at   Data Security Council of India
+December 2008  -  Present (8 years 4 months)
+Vice President  at   Goldman Sachs
+May 2011  -  March 2015  (3 years 11 months)
+Manager - IT Advisory  at   KPMG
+October 2008  -  April 2011  (2 years 7 months)
+Asst. Manager - IT Advisory  at   KPMG
+January 2007  -  September 2008  (1 year 9 months)
+Security Executive  at   Reliance Infocomm
+September 2003  -  December 2004  (1 year 4 months)
+Trainee - Security Group  at   Reliance Industries Limited
+September 2002  -  August 2003  (1 year)
+Skills
+Governance
+IT Strategy
+Information Security
+Information Security Management
+
+Vendor Management
+ISO 27001
+Information Technology
+Business Analysis
+Program Management
+ITIL
+IT Audit
+BS7799
+Change Management
+PMO
+Business Process Improvement
+Compliance Program Management
+Sarbanes-Oxley Act
+Security Awareness
+Mentoring
+Incident Management
+Business Process Re-engineering
+Information Security Policy
+Analytics
+Budgets
+BS25999
+IT Governance
+Lead Generation
+Thought Leadership
+Business Process Design
+Security Policy Development
+ITGC
+Project Governance
+Technology Planning
+IT Risk
+IS Governance
+Metrics Definition
+Innovative Thinking
+BCM
+Supplier Management
+Organizational Reengineering
+Technology Risk Transformation
+Third Party Risk Management
+Risk and Control Automation
+Technology Risk Strategy
+Control Design
+
+Education
+
+
+##########
+Name
+Subhash Mukundan
+Experience
+Associate Director  at   KPMG
+September 2014  -  Present (2 years 7 months)
+Regional Manager / Branch Manager - IBM Kerala  at   IBM India Pvt Ltd
+January 2012  -  September 2014  (2 years 9 months)
+Relationship Manager  at   IBM India Pvt Ltd
+December 2008  -  December 2011  (3 years 1 month)
+Account Manager  at   SAP India Pvt Ltd
+June 2008  -  November 2008  (6 months)
+Relationship Manager  at   IBM India Pvt Ltd
+January 2007  -  June 2008  (1 year 6 months)
+Business Manager  at   Mastek MSC SDN BHDb
+March 2003  -  January 2007  (3 years 11 months)
+Sales Engineer  at   Miyakawa Drives and Controls Ltd
+November 2001  -  February 2003  (1 year 4 months)
+Business Development Executive  at   Future Focus infotech Pvt Ltd
+May 2000  -  October 2001  (1 year 6 months)
+Skills
+Requirements Analysis
+Pre-sales
+Business Planning
+Solution Selling
+Selling
+Outsourcing
+Business Development
+Management
+Sales
+Banking
+Leadership
+Security
+Strategic Partnerships
+Strategy
+SDLC
+SAP
+Team Management
+Business Strategy
+Account Management
+Business Process
+IT Strategy
+Vendor Management
+Business Analysis
+Customer Relationship Management (CRM)
+Enterprise Software
+Consulting
+
+Education
+
+
+##########
+Name
+Suchitra Srinath
+Experience
+HR Business Partner - Accenture Operations, APAC  at   Accenture
+September 2015  -  Present (1 year 7 months)
+Vice President - HR Strategic Initiatives & Programs  at   Accenture
+June 2014  -  September 2015  (1 year 4 months)
+Vice President - Global Analytics & Business Support  at   Accenture
+August 2012  -  June 2014  (1 year 11 months)
+January 2010  -  August 2012  (2 years 8 months)
+Dy. General Manager  at   IBM
+August 1997  -  December 2009  (12 years 5 months)
+Skills
+Vendor Management
+Program Management
+Management
+Outsourcing
+Performance Management
+Talent Acquisition
+Strategy
+Change Management
+Employee Relations
+Business Analysis
+Risk Management
+Human Resources
+Payroll
+Project Management
+Team Management
+
+Recruiting
+Leadership
+
+Education
+General Management
+Bachelor of Commerce
+
+
+##########
+Name
+Sudheer Kumar D
+Experience
+Manager  at   Sapient
+August 2016  -  Present (8 months)
+Senior Associate  at   Sapient
+November 2012  -  July 2016  (3 years 9 months)
+Technical Consultant  at   JDA Software
+September 2011  -  November 2012  (1 year 3 months)
+Sr Software Engineer  at   Mindtree
+August 2010  -  September 2011  (1 year 2 months)
+Associate Consultant  at   Oracle
+August 2008  -  August 2010  (2 years 1 month)
+Skills
+Compliance Management Reporting Systerm
+FATCA
+GDD
+Hedge Funds
+Data Warehousing
+Netezza DB
+Netezza Striper
+SQL
+Microsoft SQL Server
+PL/SQL
+Sybase Adaptive Server
+Oracle
+Unix Shell Scripting
+Performance Tuning
+Databases
+Shell Scripting
+SSIS
+Business Analysis
+Java
+Requirements Analysis
+Business Intelligence
+ETL
+C
+Agile Methodologies
+
+Education
+Engineering
+Engineering
+Bachelor of Engineering (B.E.)
+Engineering
+
+
+##########
+Name
+Sudhir Kumar Urs
+Experience
+Associate Director - Transition & Transformation  at   Cognizant
+January 2016  -  Present (1 year 3 months)
+IS Program Manager  at   Tata Consultancy Services
+April 2011  -  January 2016  (4 years 10 months)
+Project Manager  at   Tata Consultancy Services
+April 2008  -  January 2016  (7 years 10 months)
+Technical Consultant  at   Hewlett Packard Enterprise
+July 2001  -  April 2008  (6 years 10 months)
+Technical Consultant  at   Compaq Corp
+July 2000  -  July 2001  (1 year 1 month)
+Skills
+Service Delivery
+ITIL
+IT Service Management
+Pre-sales
+Incident Management
+System Deployment
+Transition Management
+Remote Infrastructure Management
+Requirements Analysis
+Solution Architecture
+Virtualization
+Citrix
+Service Desk
+IT Operations
+Vendor Management
+IT Strategy
+Service Management
+Software Project Management
+Project Management
+Data Center
+Global Delivery
+
+Project Delivery
+Consulting
+
+Education
+Engineering
+
+
+##########
+Name
+Sujay Vittal
+Experience
+Developer Associate  at   SAP Labs
+August 2016  -  Present (8 months)
+Facilitator - Applied CS with Android  at   Google
+March 2016  -  December 2016  (10 months)
+Software Developer Intern  at   SAP Ariba
+January 2016  -  July 2016  (7 months)
+April 2013  -  May 2016  (3 years 2 months)
+Udacity Code Reviewer  at   Udacity
+July 2015  -  December 2015  (6 months)
+Student Ambassador  at   Google
+August 2014  -  November 2015  (1 year 4 months)
+Mobile App Developer - Android / iOS  at   Boutline
+May 2015  -  July 2015  (3 months)
+Software Research Intern  at   Unisys Global Services India
+June 2014  -  August 2014  (3 months)
+Skills
+C
+Java
+C++
+Data Structures
+Android
+HTML
+Algorithms
+CSS
+Programming
+Python
+JavaScript
+MySQL
+Android Application Developement
+OOP
+Linux
+SQL
+PHP
+PowerPoint
+Machine Learning
+Data Mining
+JSON
+Representational State Transfer (REST)
+Git
+iOS Development
+
+Education
+
+
+##########
+Name
+Sujith PV
+Experience
+Manager Technology  at   Sapient
+January 2017  -  Present (3 months)
+Senior Associate Technology L2  at   Sapient
+August 2014  -  December 2016  (2 years 5 months)
+Senior Associate Technology L1  at   Sapient
+February 2012  -  August 2014  (2 years 7 months)
+Senior Web Developer  at   Software Associates
+April 2007  -  February 2012  (4 years 11 months)
+Skills
+ASP.NET
+Web Services
+Microsoft SQL Server
+WCF
+jQuery
+C#
+JavaScript
+ASP.NET MVC
+SharePoint
+Windows Sharepoint Services
+MVC
+REST
+Windows Communication Foundation (WCF)
+SSRS
+Umbraco
+AJAX
+Microsoft Office Sharepoint Server
+SSIS
+Web API
+Moq
+MbUnit
+Rhino ETL
+.NET
+Requirements Analysis
+ASP.NET AJAX
+Gallio
+Node.js
+IOT
+Arduino
+Entity Framework
+JSON
+.NET Framework
+Web Services API
+Docker
+Riemann
+InfluxDb
+Grafana
+
+Red Hat Linux
+Varnish Caching
+SQL Server Reporting Services (SSRS)
+Representational State Transfer (REST)
+SQL Server Integration Services (SSIS)
+
+Education
+Engineering
+Engineering
+
+
+##########
+Name
+Sundar Rajan
+Experience
+Associate Consultant  at   KPMG
+June 2014  -  Present (2 years 10 months)
+Project Trainee  at   Siemens
+June 2013  -  July 2013  (2 months)
+Skills
+Auditing
+Risk Consulting
+ISAE 3402
+Internal Audit
+SOX 404
+External Audit
+Business Control
+
+Education
+Engineering
+
+
+##########
+Name
+Suneet Suthan
+Experience
+Associate Creative Director - Experience Design  at   Sapient
+January 2016  -  Present (1 year 3 months)
+Manager - Experience Design  at   Sapient
+March 2012  -  December 2015  (3 years 10 months)
+Limited
+April 2011  -  February 2012  (11 months)
+Centre of Excellence Lead  at   Human Factors International
+January 2009  -  March 2011  (2 years 3 months)
+Sr. Human Factors Specialist  at   Human Factors International
+October 2007  -  December 2008  (1 year 3 months)
+Human Factors Specialist  at   Human Factors International
+March 2006  -  September 2007  (1 year 7 months)
+Skills
+Information Architecture
+User Experience
+Usability Testing
+User Interface Design
+User Experience Design
+User-centered Design
+Wireframes
+User Research
+Usability
+Wireframing
+
+Education
+Engineering
+
+
+##########
+Name
+Tannu Dorbi
+Experience
+Junior Engineer  at   robert bosch
+January 2016  -  Present (1 year 3 months)
+Skills
+Microsoft Office
+Project Management
+Microsoft Excel
+Engineering
+Management
+Microsoft PowerPoint
+Customer Service
+C
+C++
+Leadership
+Linux System Administration
+
+Tannu Dorbi
+Junior Engineer at robert bosch
+Contact Tannu on LinkedIn
+
+Education
+
+
+##########
+Name
+Udhaya kumar Thirupparangiri
+Experience
+Manager Engineering  at   Cisco
+April 2016  -  Present (1 year)
+Quality Assurance Manager  at   Amazon
+October 2014  -  April 2016  (1 year 7 months)
+Manager Test Engineering  at   Aricent Technologies ltd
+October 2012  -  October 2014  (2 years 1 month)
+Senior Tech Lead  at   HCL Technologies
+January 2002  -  October 2012  (10 years 10 months)
+Skills
+Manual Testing
+L2/L3 protocols
+MPLS
+MPLS VPN
+L2VPN
+OSPF
+BGP
+RIP
+STP
+TCL
+Test Automation
+Cisco VoIP
+IP Multicast
+QoS
+SNMP
+NTP
+NAT
+
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Vaibhav Kumar
+Experience
+Senior System Engineer  at   Infosys
+April 2016  -  Present (1 year)
+software engineer  at   Infosys
+February 2014  -  April 2016  (2 years 3 months)
+Skills
+c sharp
+C#
+ASP.NET
+Telerik Web Controls
+WCF Services
+Bootstrap
+JSON
+Web Services
+Windows Services
+ASP.NET AJAX
+Data Structures
+C
+Java
+JavaScript
+Programming
+SQL
+
+
+Education
+Bachelor’s Degree
+
+
+##########
+Name
+Venkataramana Solleti
+Experience
+Associate Director  at   Cognizant
+May 2015  -  Present (1 year 11 months)
+Delivery Manager  at   Wipro
+April 2013  -  May 2015  (2 years 2 months)
+Program Manager  at   Wipro Technologies
+May 2009  -  March 2013  (3 years 11 months)
+Project Manager at UBS Stamford  at   Wipro Technologies
+December 2005  -  February 2006  (3 months)
+Project Manager at Pitney Bowes  at   Wipro Technologies
+October 2004  -  December 2005  (1 year 3 months)
+Skills
+Vendor Management
+Requirements Analysis
+Project Management
+Management
+ITIL
+PMP
+Project Planning
+SDLC
+Program Management
+Software Project Management
+Pre-sales
+Mainframe
+Solution Architecture
+Global Delivery
+Risk Management
+Delivery Management
+Program Delivery Management
+Infra Delivery Manager
+People Management
+Customer Engagement
+Service Delivery Management
+Operations Management
+Incident Management
+IT Transformation
+Lean Transformation
+IT Strategy
+IT Service Management
+Service Delivery
+Data Center
+Enterprise Architecture
+CRM
+Outsourcing
+Project Delivery
+PMO
+Project Management Office (PMO)
+
+Education
+Engineering
+
+
+##########
+Name
+Venkatesh Prasad Suresh
+Experience
+Network Consulting Engineer  at   Cisco
+August 2016  -  Present (8 months)
+GSDC Intern  at   NetApp
+December 2015  -  May 2016  (6 months)
+Skills
+C
+C++
+Microsoft Office
+Public Speaking
+Java
+PowerPoint
+Microsoft Excel
+English
+HTML
+Social Media
+Planning & Organizing Skills
+Leadership
+Programming
+Matlab
+SQL
+Project Management
+Research
+German
+Negotiation
+Teamwork
+Event Management
+Logistics
+Creative Writing
+CSS
+Product Development
+Microsoft Word
+MySQL
+Management
+Perl
+Microsoft PowerPoint
+
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Venkatesh BV
+Experience
+Customer and Partner Experience Manager – APJ Region  at   Microsoft Corporation India Pvt. Ltd.
+October 2016  -  Present (6 months)
+Customer and Partner Experience Manager – APJ Region  at   Microsoft Corporation India Pvt. Ltd.
+August 2005  -  Present (11 years 8 months)
+Senior Engagement Manager  at   Microsoft Corporation India Pvt. Ltd.
+October 2015  -  September 2016  (1 year)
+Support Practice Manager  at   Microsoft
+July 2012  -  September 2015  (3 years 3 months)
+Technical Account Manager  at   Microsoft
+August 2005  -  June 2012  (6 years 11 months)
+Consultant/Project Manager  at   Infosys Technologies Ltd
+January 2004  -  July 2005  (1 year 7 months)
+Project Lead  at   Hewlett-Packard
+December 1999  -  January 2004  (4 years 2 months)
+Customer Support Engineer  at   Glenayre Electronics Inc
+March 1997  -  December 1999  (2 years 10 months)
+Telecom Engineer  at   Hindustan Electro Technology
+November 1995  -  March 1997  (1 year 5 months)
+Telecom Engineer  at   Advanced Tele Systems
+December 1994  -  November 1995  (1 year)
+Skills
+Pre-sales
+IT Strategy
+Service Delivery
+ITIL
+Global Delivery
+Microsoft Technologies
+Vendor Management
+Program Management
+Requirements Analysis
+Transition Management
+People Management
+Relationship Management
+
+Education
+
+
+##########
+Name
+Vikhyath Benegal
+Experience
+Analyst, KPMG Global Services  at   KPMG
+September 2015  -  Present (1 year 7 months)
+General Manager  at   Opencube Labs
+October 2014  -  June 2015  (9 months)
+Project Trainee  at   Indian Institute of Science
+February 2015  -  May 2015  (4 months)
+Organization Committee Member  at   AIESEC in Mainland of China
+January 2015  -  February 2015  (2 months)
+January 2014  -  February 2014  (2 months)
+Skills
+Cross-cultural Communication Skills
+Event Management
+Presentation Skills
+AutoCAD
+CATIA
+Marketing
+CAD
+Solidworks
+Solid Edge
+Microsoft Office
+Mechanical Engineering
+Six Sigma
+Sponsorship
+GD&T
+Leadership
+Training & Development
+Recruiting
+Project Management
+Matlab
+C
+Management
+C++
+Research
+Microsoft Excel
+Microsoft Word
+
+Education
+Engineering
+
+
+##########
+Name
+Vinay B S
+Experience
+Software Systems Engineer  at   Cisco
+October 2016  -  Present (6 months)
+Software Development Engineer  at   Cisco
+February 2015  -  October 2016  (1 year 9 months)
+QA Automation & OpenStack Engineer  at   Cisco
+September 2013  -  January 2015  (1 year 5 months)
+Software Engineering Intern  at   Dell
+February 2013  -  April 2013  (3 months)
+January 2013   Score:94.09
+Cisco IMC Supervisor
+February 2015 to Present
+OpenStack
+February 2014 to Present
+Powertool Automation Framework
+September 2013 to January 2014
+Classroom Assistance for the Blind
+February 2013 to June 2013
+Heart Rate Remote data logger
+February 2014 to Present
+Stalker
+January 2012 to Present
+Skills
+Software Solutions
+Solution Development
+Solution Implementation
+Software Integration
+Cloud Computing
+Virtualization
+Web Development
+Web Application Design
+Web Framework
+Flask
+HTML
+Cascading Style Sheets (CSS)
+JavaScript
+Python
+Java
+OpenStack
+Chef
+Docker
+
+Debugging
+Linux
+Testing
+Cisco UCS
+Networking
+XML
+Programming
+SQL
+Software Engineering
+Software Development
+Cisco UCS Director
+Cisco CloudCenter
+VMware
+API Development
+JSON
+
+Education
+Engineering
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Vinay Hegde
+Experience
+Senior Product Specialist  at   SAP
+April 2016  -  Present (1 year)
+SAP Analytic Extensions Expert  at   SAP
+June 2015  -  March 2016  (10 months)
+SAP BI Developer & Solution Expert  at   SAP
+February 2013  -  May 2015  (2 years 4 months)
+SAP BW Developer  at   SAP
+August 2008  -  January 2013  (4 years 6 months)
+Project Engineer  at   Wipro
+September 2007  -  August 2008  (1 year)
+Skills
+Product Management
+
+Analytics
+Business Intelligence
+Business Objects
+Data Warehousing
+SAP
+Software Development
+Java
+SAP NetWeaver Business Warehouse (SAP BW)
+SAP Products
+SQL
+Partner Management
+Business Object
+Requirements Analysis
+SAP BusinessObjects
+
+Education
+
+
+##########
+Name
+Vishnuprasad Yelthimar
+Experience
+Principal Consultant  at   Infosys
+October 2015  -  Present (1 year 6 months)
+Senior Project Manager  at   Infosys
+July 2014  -  Present (2 years 9 months)
+Project Manager  at   Infosys
+July 2008  -  Present (8 years 9 months)
+Senior Developer  at   Symphony Technology Group
+September 2006  -  June 2008  (1 year 10 months)
+Software Engineer  at   Accord Software & Systems
+July 2003  -  August 2006  (3 years 2 months)
+Principal Consultant  at   Infosys
+October 2015  -  Present (1 year 6 months)
+Senior Project Manager  at   Infosys
+July 2014  -  Present (2 years 9 months)
+Project Manager  at   Infosys
+July 2008  -  Present (8 years 9 months)
+Senior Developer  at   Symphony Technology Group
+September 2006  -  June 2008  (1 year 10 months)
+Software Engineer  at   Accord Software & Systems
+July 2003  -  August 2006  (3 years 2 months)
+Skills
+Unix
+C
+C++
+SQL
+Core Java
+ITIL
+IT Service Management
+Pre-sales
+Global Delivery
+Program Management
+Service Delivery
+Servicenow
+IT Infrastructure Management
+Requirements Analysis
+Software Development
+Oracle
+Unix Shell Scripting
+SDLC
+Shell Scripting
+
+Education
+MA
+Engineering
+
+
+##########
+Name
+Yeshashree Prasanna
+Experience
+Vice President Public Relations, Jinsei Dojo Toastmasters Club  at   Toastmasters International
+July 2015  -  Present (1 year 9 months)
+DevOps Engineer  at   Infosys
+April 2015  -  Present (2 years)
+Public Relations Head  at   Japan Habba
+December 2014  -  Present (2 years 4 months)
+Committee Chair  at   Japanese Language Speech Contest
+July 2015  -  December 2015  (6 months)
+Systems Engineer Trainee  at   Infosys
+July 2014  -  November 2014  (5 months)
+Skills
+Java
+SQL
+JavaScript
+HTML
+Databases
+MySQL
+JPA
+
+JSP
+Maven
+Eclipse
+Prezi
+JDBC
+PHP
+AJAX
+Capital Markets
+Leadership
+Japanese Business Culture
+C
+Public Speaking
+Social Media Marketing
+Photoshop
+Volunteer Experience
+Volunteer  at   Sankalp
+2013  -  2014
+An NGO which raises funds and organizes field trips to orphanages, old age homes and schools, where we
+ aim to supply basic amenities like food, clothing, everyday necessities and spend quality time with them.
+
+Yeshashree Prasanna
+Software Engineer
+Contact Yeshashree on LinkedIn
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Abhiram Ravikumar
+Experience
+Associate Developer  at   SAP
+July 2016  -  Present (9 months)
+Regional Coordinator - Mozilla Clubs  at   Mozilla
+May 2015  -  Present (1 year 11 months)
+Intern  at   AboutNumber
+December 2014  -  January 2015  (2 months)
+Peer Mentor  at   Boot me up
+September 2014  -  November 2014  (3 months)
+Member Technical Staff  at   Ordell Ugo
+August 2013  -  September 2014  (1 year 2 months)
+Digital Volunteer  at   Ministry of Communications and Information Technology
+May 2013  -  May 2014  (1 year 1 month)
+Mozilla Rep  at   Mozilla
+November 2015  -  Present
+Skills
+C
+Java
+C++
+Windows
+English
+Research
+Microsoft Word
+Social Media
+Photoshop
+Python
+
+PowerPoint
+Outlook
+Customer Service
+Teaching
+Public Speaking
+Social Media Marketing
+Big Data
+Data Science
+Event Planning
+HTML
+MySQL
+Big Data Analytics
+Microsoft PowerPoint
+JavaScript
+
+Education
+Engineering
+Engineering
+
+
+##########
+Name
+Abhishek Banerjee
+Experience
+Associate Technology L1  at   Sapient
+January 2016  -  Present (1 year 3 months)
+Trainee Technology  at   Sapient
+July 2015  -  January 2016  (7 months)
+Skills
+C++
+C
+Microsoft Office
+JavaScript
+HTML
+C#
+AngularJS
+Cascading Style Sheets (CSS)
+Algorithms
+Programming
+DBMS
+CSS
+Data Structures
+OOP
+MySQL
+Design Patterns
+Quality Assurance
+
+Regression Testing
+Microsoft Excel
+Selenium WebDriver
+QA Automation
+Projects
+Mini Unix Shell
+April 2014 to Present
+Members:Abhishek Banerjee
+Created a Replica of the Unix Shell. Command line interface included. Based on the concept of string
+ tokenizing and Recognition. Commands implemented by Unix System programming.
+Asteroids
+May 2014 to Present
+Members:Abhishek Banerjee, Ashish Singh
+Asteroids Game using OpenGL APIs. The game has been developed in C . GLUT libraries used for graphical
+ interface.
+Pristine
+January 2015 to May 2015
+Members:Abhishek Banerjee, Vidhi Shah
+An android app providing a social platform to citizens to report environmental and social issues and spread
+ awareness among fellow citizens.
+Voyage Companion
+Members:Abhishek Banerjee, Ravi Shankar Kumar
+A web based application promoting medical tourism in India. 
+
+Education
+Engineering
+
+
+##########
+Name
+Abhishek Banerjee
+Experience
+Associate Technology L1  at   Sapient
+January 2016  -  Present (1 year 3 months)
+Trainee Technology  at   Sapient
+July 2015  -  January 2016  (7 months)
+Skills
+C++
+C
+Microsoft Office
+JavaScript
+HTML
+C#
+AngularJS
+Cascading Style Sheets (CSS)
+Algorithms
+Programming
+DBMS
+CSS
+Data Structures
+OOP
+MySQL
+Design Patterns
+Quality Assurance
+
+Regression Testing
+Microsoft Excel
+Selenium WebDriver
+QA Automation
+Projects
+Mini Unix Shell
+April 2014 to Present
+Members:Abhishek Banerjee
+Created a Replica of the Unix Shell. Command line interface included. Based on the concept of string
+ tokenizing and Recognition. Commands implemented by Unix System programming.
+Asteroids
+May 2014 to Present
+Members:Abhishek Banerjee, Ashish Singh
+Asteroids Game using OpenGL APIs. The game has been developed in C . GLUT libraries used for graphical
+ interface.
+Pristine
+January 2015 to May 2015
+Members:Abhishek Banerjee, Vidhi Shah
+An android app providing a social platform to citizens to report environmental and social issues and spread
+ awareness among fellow citizens.
+Voyage Companion
+Members:Abhishek Banerjee, Ravi Shankar Kumar
+A web based application promoting medical tourism in India. 
+
+Education
+Engineering
+
+
+##########
+Name
+Abhishek Dashora
+Experience
+Consultant  at   KPMG
+February 2015  -  Present (2 years 2 months)
+Information Security Analyst  at   Dell
+November 2014  -  February 2015  (4 months)
+System Engineer  at   Nous Infosystems
+October 2012  -  November 2014  (2 years 2 months)
+Skills
+Information Security
+Ethical Hacker
+Network Security
+Linux
+Operating Systems
+Unix
+
+Computer Security
+Penetration Testing
+CEH
+Computer Forensics
+IBM Certified Rational Application Developer for
+Websphere software v6.0
+IBM Certified DB2 Associate
+Vulnerability Assessment
+Wireshark
+ISO 27001
+Backtrack
+Nmap
+Application Security
+Nessus
+Vulnerability Scanning
+Metasploit
+OWASP
+Ethical Hacking
+
+Education
+Engineering
+
+
+##########
+Name
+Achal Kumar
+Experience
+Graduate Engineering Trainee  at   Ericsson
+August 2016  -  Present (8 months)
+Intern  at   Ericsson
+January 2016  -  June 2016  (6 months)
+Skills
+Python
+OpenStack
+Ansible
+Shell Scripting
+Java
+Linux
+Data Mining
+Network Security
+Data Modeling
+Network Management Applications
+JavaScript
+C
+HTML
+MySQL
+Microsoft Office
+Microsoft Word
+Programming
+Microsoft Excel
+XML
+PowerPoint
+Experience
+Graduate Engineering Trainee  at   Ericsson
+August 2016  -  Present (8 months)
+Intern  at   Ericsson
+January 2016  -  June 2016  (6 months)
+
+Education
+Engineering
+
+
+##########
+Name
+Adarsh Arora
+Experience
+Business Analyst  at   KPMG
+June 2015  -  Present (1 year 10 months)
+Skills
+Microsoft Excel
+Microsoft Office
+Microsoft Word
+PowerPoint
+Public Speaking
+Research
+Team Management
+Teamwork
+Management
+English
+Leadership
+Business Analysis
+Strategic Planning
+Volunteer Experience
+Vice President  at   Rotaract
+July 2013  -  June 2014
+Rotaract Club of R.V. College of Engineering
+Charter Secretary  at   Rotaract
+July 2016  -  Present
+Rotaract Club of Marathahalli
+
+Adarsh Arora
+Business Analyst at KPMG Advisory Services Private Limited
+Contact Adarsh on LinkedIn
+
+Education
+Engineering
+
+
+##########
+Name
+Aishwarya Iyer
+Experience
+Programmer analyst trainee  at   Cognizant
+September 2015  -  Present (1 year 7 months)
+Community Outreach Manager  at   toorq.com
+February 2015  -  March 2015  (2 months)
+Skills
+Microsoft Office
+Management
+Microsoft Excel
+Microsoft Word
+PowerPoint
+Leadership
+JavaScript
+C
+CRM
+CSS
+Communication
+Databases
+Web Design
+Event Planning
+Event Management
+HTML
+Java
+JSP
+Oracle
+Operating Systems
+SQL
+C++
+Linux
+MySQL
+
+Data Structures
+Teamwork
+HTML5
+
+Education
+BA
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Akash Singh
+Experience
+Associate  at   Cognizant
+January 2017  -  Present (3 months)
+Programmer Analyst  at   Cognizant
+October 2014  -  December 2016  (2 years 3 months)
+Programmer Analyst Trainee  at   Cognizant Technology Solutions
+October 2013  -  October 2014  (1 year 1 month)
+Skills
+Microsoft Office
+SQL
+Microsoft Excel
+PowerPoint
+Microsoft Word
+Customer Service
+Data Warehousing
+MSBI
+SSRS
+SSIS
+cognos bi
+Oracle Database
+MySQL
+Oracle
+Microsoft SQL Server
+
+Education
+BA
+Engineering
+
+
+##########
+Name
+Aman Jha
+Experience
+Business Analyst  at   Venture Factory by i2india
+March 2016  -  April 2016  (2 months)
+Marketing Intern  at   Venture Factory by i2india
+February 2016  -  March 2016  (2 months)
+Web Content Writer  at   Venture Factory by i2india
+February 2016  -  March 2016  (2 months)
+Skills
+Microsoft Excel
+Microsoft Office
+PowerPoint
+Public Speaking
+Teamwork
+C
+Microsoft Word
+Matlab
+Business Analysis
+Retargeting
+Market Research
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Anil Vasista
+Experience
+Transformation Lead for an Insurance Company  at   Accenture in India
+June 2016  -  Present (10 months)
+Limited
+April 2015  -  May 2016  (1 year 2 months)
+Quality Operations and PMO Lead for a CMT Client  at   Accenture in India
+February 2014  -  May 2015  (1 year 4 months)
+Innovation and Industrilization Program - Productivity Bench marking Lead  at   Accenture UK
+October 2011  -  January 2014  (2 years 4 months)
+December 2004  -  October 2011  (6 years 11 months)
+Principal Consultant  at   Crescent Solutions
+January 2001  -  December 2004  (4 years)
+Process Engineer  at   Sunlet Systems (P) Limited
+November 1999  -  November 2001  (2 years 1 month)
+Quality Assurance and Production Manager  at   Glowtronics Limited
+May 1993  -  October 1999  (6 years 6 months)
+Skills
+Business Process Improvement
+Waste Reduction
+Productivity Coaching
+Business Process Design
+Business Transformation
+CMMI
+Software Project Management
+SDLC
+Requirements Analysis
+Process Consulting
+Management Consulting
+IT Strategy
+Business Process
+Business Analysis
+Global Delivery
+Project Portfolio Management
+PMO
+
+Program Management
+Management
+Consulting
+Project Management
+Capability Maturity Model Integration (CMMI)
+
+Education
+Master’s Degree
+Engineering
+Bachelor’s Degree
+
+
+##########
+Name
+Animesh Kumar
+Experience
+Manager HR, Leadership Program (HRLP)  at   Cisco
+May 2014  -  Present (2 years 11 months)
+MBA Intern HR, Leadership Program (HRLP)  at   Cisco Systems
+April 2013  -  June 2013  (3 months)
+Staff Consultant  at   Oracle
+September 2008  -  March 2012  (3 years 7 months)
+Skills
+Human Resources
+
+Employee Engagement
+Team Management
+Performance Management
+Training
+Talent Management
+Business Analysis
+
+Education
+MBA
+BA
+Engineering
+
+
+##########
+Name
+Aravindan Krishnan
+Experience
+Project Manager  at   Accenture
+February 2015  -  Present (2 years 2 months)
+Project Manager  at   Accenture
+January 2014  -  January 2015  (1 year 1 month)
+Project Manager  at   Accenture
+October 2013  -  January 2014  (4 months)
+Project Manager  at   Accenture
+November 2012  -  October 2013  (1 year)
+Supply Chain Consultant  at   Accenture
+December 2009  -  October 2012  (2 years 11 months)
+Supply Chain Consultant  at   Accenture
+January 2008  -  November 2009  (1 year 11 months)
+Supply Chain Consultant  at   Accenture
+June 2007  -  January 2008  (8 months)
+Assistant Manager Production  at   Reliance
+April 2003  -  June 2005  (2 years 3 months)
+Skills
+Project Management
+SDLC
+Supply Chain Management
+Demand Planning
+Supply Network Planning
+Fashion Industry
+Management
+Leadership
+Requirements Analysis
+Integration
+Microsoft Office
+SAP APO
+Solution Architecture
+
+Aravindan Krishnan
+Project Manager at Accenture
+Contact Aravindan on LinkedIn
+
+Education
+Master of Management
+Bachelor’s Degree
+Engineering
+
+
+##########
+Name
+Ashish Gandhi
+Experience
+Senior Associate Technology level 2  at   Sapient
+June 2016  -  Present (10 months)
+Principal Consultant  at   Mercedes-Benz Research and Development India
+December 2015  -  June 2016  (7 months)
+Consultant  at   Deloitte Deloitte US India offices
+April 2015  -  December 2015  (9 months)
+Software Engineer Intermediate  at   JDA Software India
+March 2013  -  April 2015  (2 years 2 months)
+Software Engineer  at   Wipro Technologies India
+February 2010  -  February 2013  (3 years 1 month)
+Skills
+AEM 6.0
+Java
+AEM 6.1
+Agile Methodologies
+JavaScript
+JSP
+Java Enterprise Edition
+Core Java
+HTML
+Team Management
+Scrum
+Requirements Analysis
+JavaServer Pages (JSP)
+Web Services
+Software Development Life Cycle (SDLC)
+
+jQuery
+Software Development
+Servlets
+
+Education
+
+
+##########
+Name
+Brad Smith
+Experience
+President and Chief Legal Officer  at   Microsoft
+September 2015  -  Present (1 year 7 months)
+Member of the Board of Directors  at   Netflix
+June 2015  -  Present (1 year 10 months)
+General Counsel and Executive Vice President, Legal and Corporate Affairs  at   Microsoft Corporation
+July 2002  -  September 2015  (13 years 3 months)
+Deputy General Counsel, Worldwide Sales Group  at   Microsoft Corporation
+August 1996  -  June 2002  (5 years 11 months)
+Associate General Counsel, Europe  at   Microsoft Corporation
+November 1993  -  August 1996  (2 years 10 months)
+Associate and then Partner  at   Covington & Burling
+September 1986  -  November 1993  (7 years 3 months)
+Law Clerk to Judge Charles M. Metzner  at   United States Federal Courts
+September 1985  -  July 1986  (11 months)
+Skills
+Corporate Law
+Intellectual Property
+Mergers & Acquisitions
+Corporate Governance
+Litigation
+Legal Writing
+Commercial Litigation
+Due Diligence
+Strategic Partnerships
+
+
+Education
+
+
+##########
+Name
+Charishma C
+Experience
+PAT  at   Cognizant
+September 2015  -  Present (1 year 7 months)
+Volunteer  at   Bhumi
+May 2015  -  Present
+Junior Teacher  at   Samarthanam Trust for the Disabled,Bangalore
+August 2014  -  Present
+Skills
+Communication
+Microsoft Excel
+Operations Management
+PowerPoint
+Management
+Team Building
+Public Speaking
+C
+Sales Management
+C++
+Microsoft Word
+Marketing
+Microsoft Office
+Project Management
+Engineering
+Customer Service
+Research
+Project Planning
+Social Media
+Teaching
+Programming
+Microsoft PowerPoint
+SQL
+
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Debasis Behera
+Experience
+Senior Software Developer  at   Sapient
+June 2015  -  Present (1 year 10 months)
+Software Developer  at   Mindfire Solutions
+July 2011  -  June 2015  (4 years)
+Skills
+JavaScript
+OOJS
+MVC oojs
+jQuery
+jQuery UI
+HTML
+HTML 5
+CSS
+OOP
+PHP
+AJAX
+laravel
+JSON
+SQL
+MySQL
+Web Services
+Tortoise SVN
+
+Healthcare
+XML
+Subversion
+REST
+JSONP
+HTML5
+Cascading Style Sheets (CSS)
+Software Development
+
+Education
+
+
+##########
+Name
+Deepa Joshi
+Experience
+Software Engineer  at   Infosys
+April 2009  -  Present (8 years)
+Associate Software Engineer  at   Mphasis
+January 2008  -  March 2009  (1 year 3 months)
+Skills
+Cloud Computing
+SQL
+MySQL
+XML
+Databases
+Microsoft SQL Server
+Oracle
+AWS
+VMware
+Hyper-V
+vSphere
+Virtualization
+Linux
+Java
+JavaScript
+Hadoop
+
+C++
+Core Java
+C
+Big Data
+Java Enterprise Edition
+Amazon Web Services (AWS)
+
+Education
+
+
+##########
+Name
+Dr.J.Jagatheesh Jayanand
+Experience
+Senior Manager/Vice President - Learning and Knowledge Management  at   Accenture
+April 2016  -  Present (1 year)
+Senior Manager/Vice President - SAP Sales Enablement Team  at   Accenture
+August 2015  -  April 2016  (9 months)
+Senior Manager/Vice President - SAP Sales Enablement Team  at   Accenture
+June 2007  -  July 2015  (8 years 2 months)
+Functional Consultant-SAP SD  at   Wipro Technologies
+January 2005  -  June 2007  (2 years 6 months)
+Functional Consultant -SAP SD  at   Accenture
+January 2004  -  January 2005  (1 year 1 month)
+Assistant Manager Marketing  at   ACC Cements
+March 2002  -  January 2004  (1 year 11 months)
+Executive-Product  at   Saud Bahwan Group LLC
+May 2001  -  February 2002  (10 months)
+Executive-Sales  at   Larsen & Toubro Limited
+April 1999  -  May 2001  (2 years 2 months)
+Product Executive  at   Tenneco
+April 1998  -  April 1999  (1 year 1 month)
+Skills
+Business Development
+Pre-sales
+Consulting
+Market Research
+SAP ERP
+Business Analysis
+Business Process
+Management Education
+Business Intelligence
+Management
+Requirements Analysis
+People Management
+Integration
+Team Management
+Outsourcing
+SAP Products
+Team Building
+
+Education
+Master of Business Administration (M.B.A.)
+Doctor of Philosophy (Ph.D.)
+Engineering
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Eshwari Ramakrishna
+Experience
+Associate Software Engineer  at   Robert Bosch
+July 2016  -  Present (9 months)
+Skills
+Matlab
+C++
+Linux
+AUTOSAR
+
+Education
+Engineering
+Engineering
+
+
+##########
+Name
+GANESAN PERUMALSAMY
+Experience
+Sr Associate Technology Level I  at   Sapient
+August 2016  -  Present (8 months)
+Sr Systems Engineer  at   Infosys Technology
+July 2013  -  July 2016  (3 years 1 month)
+Corporate Consultant  at   Mazenet Solution pvt ltd
+August 2011  -  July 2013  (2 years)
+Dotnet trainer  at   Click start pvt ltd
+August 2010  -  August 2011  (1 year 1 month)
+Skills
+jQuery
+Software Development
+.NET
+Web Development
+MVC
+JavaScript
+SQL
+ASP.NET
+C#
+Microsoft SQL Server
+HTML
+SDLC
+C
+Web Services
+XML
+AJAX
+ASP.NET MVC
+WCF
+Team Management
+Agile Methodologies
+Microsoft Office
+PL/SQL
+Software Project Management
+Vendor Management
+C++
+Management
+AngularJS
+Java
+Recruiting
+Screening
+CRM
+Leadership
+Windows Communication Foundation (WCF)
+.NET Framework
+Web Services API
+Customer Relationship Management (CRM)
+Angular js
+Html5, CSS3, Bootstrap
+
+
+Education
+Bachelor of Science
+
+
+##########
+Name
+Ganesh Chandra
+Experience
+Software Developer  at   Bosch
+July 2015  -  Present (1 year 9 months)
+Software Development Intern  at   IBM
+January 2015  -  June 2015  (6 months)
+intern  at   Old Dominion University
+June 2014  -  July 2014  (2 months)
+intern  at   Odigma
+June 2013  -  July 2013  (2 months)
+intern  at   Career kraft
+November 2011  -  November 2012  (1 year 1 month)
+odigma posting tool
+July 2013 to Present
+trnket
+June 2014 to Present
+OBJECT RECOGNITION FOR AGGRESSION DETECTION
+June 2014 to Present
+Intruder detection home security system
+January 2015 to May 2015
+Skills
+Java
+C
+Microsoft Office
+Microsoft Excel
+Microsoft Word
+C++
+PowerPoint
+Teamwork
+Research
+Social Media
+HTML
+Photoshop
+Python
+JavaScript
+PHP
+Programming
+SQL
+Cascading Style Sheets (CSS)
+Perl
+R
+
+Education
+
+
+##########
+Name
+Gitika Saksena
+Experience
+Vice President - Talent Management, Employee Experience and Talent Analytics  at   Accenture
+September 2015  -  Present (1 year 7 months)
+Global Leadership Integration Manager  at   Accenture
+March 2015  -  September 2015  (7 months)
+September 2012  -  March 2015  (2 years 7 months)
+Performance & Career Management, Employee Engagement and Recognition Specialist  at   Accenture
+September 2008  -  August 2012  (4 years)
+HR Generalist  at   Accenture
+April 2006  -  August 2008  (2 years 5 months)
+Senior Executive HR  at   Birlasoft
+May 2004  -  March 2006  (1 year 11 months)
+Skills
+Performance Management
+Employee Engagement
+Career Management
+Human Resources
+
+Career Development
+Team Management
+Personnel Management
+Talent Management
+Management
+Recruiting
+Leadership
+Organizational Design
+HR Consulting
+Training
+Management Consulting
+Vendor Management
+Deferred Compensation
+Training Delivery
+HR Service Delivery
+Change Management
+Communication
+PCMM
+Virtual Teams
+Performance Appraisal
+HR Policies
+Employee Relations
+Talent Acquisition
+HR Transformation
+Program Management
+
+Education
+MBA
+BA
+BA
+
+
+##########
+Name
+Harish V Hariharan
+Experience
+
+Skills
+Product Management
+Solution Selling
+Pre-sales
+Business Development
+Team Management
+Leadership
+Sales & Marketing
+Account Management
+Vendor Management
+Customer Relationship Management (CRM)
+Strategy
+Partner Management
+Business Strategy
+Go-to-market Strategy
+Channel Partners
+Digital Marketing
+Digital Transformation
+Alliance Sales
+Management
+Sales Management
+Market Research
+Microsoft Office
+
+Education
+Master of Business Administration (M.B.A.)
+Engineering
+
+
+##########
+Name
+Harish K
+Experience
+Associate Software Engineer  at   Bosch
+July 2015  -  Present (1 year 9 months)
+Associate Software Engineer  at   Bosch
+July 2015  -  Present (1 year 9 months)
+Skills
+C
+Microsoft Office
+C++
+HTML
+Java
+JavaScript
+SQL
+MySQL
+Microsoft Excel
+
+Education
+
+
+##########
+Name
+Harsha HN
+Experience
+Associate Engineer  at   Robert Bosch Engineering and Business solutions
+August 2016  -  Present (8 months)
+Skills
+Machine Learning
+Python
+Matlab
+Advanced Digital Logic Design
+Creative Problem Solving
+Embedded System design
+Xilinx ISE
+Neural Networks
+FPGA
+System Verilog
+Arduino
+Linux Operations
+Computer Networking
+Beaglebone Black
+Digital Signal Processing
+Computer Architecture
+Self-research
+Android Development
+Digital Front-end Design
+Digital Circuit Design
+Cadence : Virtuoso & Encouter
+LaTeX
+Information Theoy & Coding
+Cricket
+Table Tennis
+Teamwork
+RTL Design
+Microsoft Office
+Project Management
+Java
+MM VLSI
+
+Education
+Bachelor’s Degree
+Engineering
+
+
+##########
+Name
+Hemakumar kakaraparti
+Experience
+Manager Experience Development  at   Sapient
+January 2017  -  Present (3 months)
+Senior Interactive Developer L2  at   SapientNitro
+March 2013  -  Present (4 years 1 month)
+Senior Interactive Developer2  at   Sapient
+March 2013  -  Present (4 years 1 month)
+UserInterface Engineer  at   PayPal
+October 2007  -  November 2012  (5 years 2 months)
+Associate Projects  at   Covansys
+February 2006  -  September 2007  (1 year 8 months)
+Developer - Multimedia  at   Altosys Software Technologies
+May 2003  -  January 2006  (2 years 9 months)
+Web / Graphic Designer  at   Design2 Technologies India
+June 2000  -  May 2003  (3 years)
+Skills
+AJAX
+JavaScript
+CSS
+HTML 5
+HTML
+jQuery
+XML
+Agile Methodologies
+Web Development
+Web Applications
+DHTML
+CSS3
+JSP
+User Experience
+JSON
+User Interface Design
+User Interface
+
+Git
+CMS
+Java
+Scrum
+XHTML
+Struts
+Spring
+Servlets
+Java Enterprise Edition
+Jquery plugin Development
+Jade
+Node.js
+MongoDB
+
+Education
+Bachelor of Science
+
+
+##########
+Name
+Hemant Kumar
+Experience
+Senior Associate Level 2  at   Sapient
+August 2016  -  Present (8 months)
+Senior Associate Technology Level 1  at   Sapient
+August 2014  -  Present (2 years 8 months)
+Associate Technology Level 2  at   Sapient
+October 2012  -  July 2014  (1 year 10 months)
+Associate Technology Level 1  at   Sapient
+January 2011  -  August 2012  (1 year 8 months)
+Associate Trainee  at   Sapient
+July 2010  -  December 2010  (6 months)
+Skills
+Big Data
+Hadoop
+Apache Spark
+Scala
+Python
+Hive
+PL/SQL
+Sqoop
+Apache Pig
+Data Warehousing
+Informatica
+Oozie
+MapReduce
+Data Analytics
+apache drill
+Talend Open Studio
+Oracle PL/SQL Development
+Unix Operating Systems
+Data Integration
+Microsoft SQL Server
+ETL Tools
+Basics of Unix
+Microsoft Office
+Microsoft Excel
+Microsoft Word
+Unix
+SQL
+Oracle
+Core Java
+ETL
+Java
+Impala
+Extract, Transform, Load (ETL)
+
+
+Education
+Engineering
+Bachelor of Science
+
+
+##########
+Name
+hussain basha
+Experience
+MIS Coordinator  at   Ericsson Indai Pvt Ltd. Bangalore.
+January 2016  -  Present (1 year 3 months)
+MIS Executive Jr"  at   Ericsson
+August 2015  -  Present (1 year 8 months)
+Skills
+
+Education
+
+
+##########
+Name
+Indira A
+Experience
+Associate  at   Cognizant Technology Solutions
+August 2013  -  Present (3 years 8 months)
+Skills
+C
+JavaScript
+Java
+Data Structures
+C++
+Core Java
+Eclipse
+OpenGL
+HTML
+Operating Systems
+MySQL
+Oracle
+Algorithms
+SQL
+Pentaho
+R analytics
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Irina Ghose
+Experience
+Sales Excellence Director - Enterprise Business (COO)  at   Microsoft
+July 2012  -  Present (4 years 9 months)
+Director & Segment Lead- Education  at   Microsoft
+July 2010  -  June 2012  (2 years)
+Director  at   Microsoft (International Project)
+January 2010  -  June 2010  (6 months)
+Director Sales- South  at   Microsoft
+July 2008  -  December 2009  (1 year 6 months)
+Corporate Sales Business Head- South  at   Microsoft
+June 2005  -  June 2008  (3 years 1 month)
+Corpoate Business Manager  at   Microsoft
+July 2003  -  June 2005  (2 years)
+Regional Partner Alliance Manager  at   Microsoft
+December 2001  -  June 2003  (1 year 7 months)
+Business Consultant-eBusiness, Solutions Division  at   Wipro Infotech Ltd
+November 2000  -  November 2001  (1 year 1 month)
+October 1999  -  October 2000  (1 year 1 month)
+Ltd
+June 1998  -  September 1999  (1 year 4 months)
+Regional Channel Manager, PC Sales for Small and Medium Business  at   HCL Infosystems Ltd
+May 1997  -  May 1998  (1 year 1 month)
+Tata Steel
+June 1993  -  June 1995  (2 years 1 month)
+Skills
+Strategy
+Enterprise Software
+CRM
+Product Management
+Go-to-market Strategy
+Management
+Outsourcing
+Leadership
+Business Planning
+Business Alliances
+Sales Operations
+Professional Services
+Sales Process
+Selling
+Sales Management
+Product Development
+Strategic Planning
+
+Sales
+Team Building
+Project Planning
+Building Relationships
+Financial Modeling
+Cloud Computing
+SaaS
+Solution Selling
+Program Management
+
+Education
+MBA
+BA
+Engineering
+
+
+##########
+Name
+Jayashree Ramachandran
+Experience
+Oracle Primavera Practice lead for Energy, Capital Projects Services  at   Accenture
+December 2013  -  Present (3 years 4 months)
+ERP Offshore Delivery Manager  at   Accenture
+August 2012  -  December 2013  (1 year 5 months)
+Director/Co-Founder  at   iFactory Solutions Pvt. Ltd.
+June 2010  -  July 2012  (2 years 2 months)
+Associate Manager  at   Accenture
+September 2007  -  June 2010  (2 years 10 months)
+Team Lead  at   Accenture
+April 2004  -  September 2007  (3 years 6 months)
+Associate Consultant  at   iGATE Global Solutions
+July 2002  -  March 2004  (1 year 9 months)
+Systems Executive  at   Murugappa Group
+May 2001  -  July 2002  (1 year 3 months)
+Trainee  at   Murugappa Group
+December 1999  -  May 2001  (1 year 6 months)
+Skills
+Business Analysis
+ERP
+Oracle
+Software Project Management
+E-commerce
+Oracle Applications
+Integration
+Project Management
+IT Strategy
+Program Management
+Oracle E-Business Suite
+Management
+Start-ups
+MS Project
+Unix
+Team Management
+Digital Marketing
+Enterprise Software
+Portals
+Microsoft Project
+Offshore Project Management
+Team Leadership
+Leadership
+Primavera P6
+Business Process Management
+
+Education
+Bachelor of Science
+
+
+##########
+Name
+Jojan Mathew
+Experience
+Manager Technology  at   Sapient
+January 2014  -  Present (3 years 3 months)
+Senior Associate Technology  at   Sapient
+January 2004  -  December 2013  (10 years)
+Skills
+Struts
+Hibernate
+Spring
+Agile Methodologies
+Web Services
+Java Enterprise Edition
+SOA
+JSP
+XML
+Weblogic
+Oracle
+Tomcat
+Requirements Analysis
+Core Java
+Software Project Management
+Java
+SDLC
+AJAX
+JavaScript
+Servlets
+WCS
+Search
+Endeca
+Interwoven OpenDeploy
+
+Education
+Bachelor of Science
+
+
+##########
+Name
+Kalpak Seal
+Experience
+Systems Engineer - Core Infrastructure  at   Infosys Limited
+September 2016  -  Present (7 months)
+Systems Engineer  at   Infosys Limited
+December 2015  -  September 2016  (10 months)
+Systems Engineer Trainee  at   Infosys Limited
+July 2015  -  December 2015  (6 months)
+Project Intern  at   Variable Energy Cyclotron Centre
+September 2014  -  July 2015  (11 months)
+Summer Intern  at   Variable Energy Cyclotron Centre
+June 2014  -  July 2014  (2 months)
+Summer Trainee  at   Airports Authority of India
+June 2013  -  July 2013  (2 months)
+Skills
+C
+C++
+Java
+Linux
+Public Speaking
+Matlab
+SQL
+Programming
+JavaScript
+Robotics
+Engineering
+Core Java
+HTML
+Python
+Networking
+Data Structures
+Algorithms
+Database Management System (DBMS)
+Operating Systems
+NETCONF
+
+Education
+Engineering
+
+
+##########
+Name
+Kapil Lalchandani
+Experience
+Network Consulting Engineer - Business Video  at   Cisco Systems India
+July 2007  -  Present (9 years 9 months)
+Senior Network Engineer  at   Symantec
+January 2006  -  June 2007  (1 year 6 months)
+Sr. Network Engineer  at   Network Solutions
+September 2004  -  October 2005  (1 year 2 months)
+Senior Network Engineer  at   Exatt Technologies Pvt. Ltd
+September 2003  -  August 2004  (1 year)
+Network Consulting Engineer - Business Video  at   Cisco Systems India
+July 2007  -  Present (9 years 9 months)
+Senior Network Engineer  at   Symantec
+January 2006  -  June 2007  (1 year 6 months)
+Sr. Network Engineer  at   Network Solutions
+September 2004  -  October 2005  (1 year 2 months)
+Senior Network Engineer  at   Exatt Technologies Pvt. Ltd
+September 2003  -  August 2004  (1 year)
+Skills
+Cisco Technologies
+SIP Trunking
+Unified Communications
+Telepresence
+Digital Media Services
+Cisco Telepresence
+Video Conferencing
+ECDS
+TelePresence Exchange
+CTX
+Tandberg
+Cisco Routing & Switching
+Pre-sales
+Solution Architecture
+Firewalls
+Streaming Media
+Data Center
+Networking
+Cisco Call Manager
+QoS
+Security
+Network Architecture
+CCNP
+Cisco Routers
+Cisco IOS
+MPLS
+Network Design
+Routing
+CCNA
+BGP
+OSPF
+IP
+Switches
+Quality of Service (QoS)
+
+Education
+
+
+##########
+Name
+Keerthi Mohan
+Experience
+Associate L1  at   Sapient
+June 2016  -  Present (10 months)
+Skills
+HTML
+HTML5
+Cascading Style Sheets (CSS)
+jQuery
+JavaScript
+React.js
+Microsoft Word
+PowerPoint
+Microsoft Office
+Microsoft Excel
+
+Keerthi Mohan
+Working at Sapient
+Contact Keerthi on LinkedIn
+
+Education
+
+
+##########
+Name
+Krishangee R Bora
+Experience
+Solution Integrator  at   Ericsson
+November 2015  -  Present (1 year 5 months)
+Senior Risk Analyst  at   EY
+July 2015  -  October 2015  (4 months)
+Student Internship  at   Nokia
+October 2013  -  June 2015  (1 year 9 months)
+Skills
+C
+C++
+HTML
+JavaScript
+MySQL
+Java
+Microsoft Office
+SQL
+Python
+Linux
+Programming
+CSS
+Microsoft Excel
+Unix
+Software Development
+Management
+PowerPoint
+Cascading Style Sheets (CSS)
+PHP
+Microsoft Word
+Research
+Project Management
+Database management system
+Perl
+XML
+Matlab
+
+Oracle
+Data Structures
+SoC
+Internal Audit
+ITGC testing
+Finance Audit Of IT Systems
+Mercury Workpapers
+review testing
+Reperformance Testing
+Independant Testing
+Windows
+vb scripting
+Powershell
+C#
+Team Management
+CIS-CAT tool
+AngularJS
+vscript
+Microsoft PowerPoint
+Volunteer Experience
+volunteer  at   Bhumi
+October 2011  -  Present
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Madhushree Prabhakar
+Experience
+Solution Integrator  at   Ericsson
+November 2015  -  Present (1 year 5 months)
+Skills
+C
+Core Java
+Perl
+SQL
+BMC Remedy AR System
+C++
+Microsoft Office
+
+Madhushree Prabhakar
+Solution Integrator at Ericsson
+Contact Madhushree on LinkedIn
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Mahantesh Ajjampur Shetru
+Experience
+Manager Technology  at   Sapient
+August 2016  -  Present (8 months)
+Senior Associate Technology L2  at   Sapient
+January 2014  -  July 2016  (2 years 7 months)
+Senior Associate Technology L1  at   Sapient
+October 2011  -  December 2013  (2 years 3 months)
+Associate Technology L2  at   Sapient
+October 2009  -  September 2011  (2 years)
+Engineer  at   MindTree Ltd.
+October 2007  -  September 2009  (2 years)
+Skills
+Web Services
+Java Enterprise Edition
+Struts
+Requirements Analysis
+Core Java
+JSP
+Oracle
+Spring
+Servlets
+C
+SOA
+Weblogic
+
+Education
+Engineering
+
+
+##########
+Name
+Malavika Sharma
+Experience
+Sr.Sales Excellence Manager, Asia-Pacific Region & Greater China Region  at   Microsoft
+January 2012  -  Present (5 years 3 months)
+Business Excellence Manager, India  at   Microsoft
+January 2010  -  December 2012  (3 years)
+Media Manager, Microsoft Media Network  at   Microsoft
+July 2008  -  January 2010  (1 year 7 months)
+Media Strategist, Microsoft Digital Advertising Solutions  at   Microsoft
+January 2006  -  June 2008  (2 years 6 months)
+Media Group Head  at   Madison World
+January 2005  -  December 2005  (1 year)
+Sr.Media Planner  at   Universal Mccann
+January 2003  -  January 2005  (2 years 1 month)
+Media Planner  at   Mindshare
+July 2002  -  December 2003  (1 year 6 months)
+Marketing Services Manager  at   Zee Telefilms Ltd
+July 1999  -  June 2002  (3 years)
+Sr.Sales Excellence Manager, Asia-Pacific Region & Greater China Region  at   Microsoft
+January 2012  -  Present (5 years 3 months)
+Business Excellence Manager, India  at   Microsoft
+January 2010  -  December 2012  (3 years)
+Media Manager, Microsoft Media Network  at   Microsoft
+July 2008  -  January 2010  (1 year 7 months)
+Media Strategist, Microsoft Digital Advertising Solutions  at   Microsoft
+January 2006  -  June 2008  (2 years 6 months)
+Media Group Head  at   Madison World
+January 2005  -  December 2005  (1 year)
+Sr.Media Planner  at   Universal Mccann
+January 2003  -  January 2005  (2 years 1 month)
+Media Planner  at   Mindshare
+July 2002  -  December 2003  (1 year 6 months)
+Marketing Services Manager  at   Zee Telefilms Ltd
+July 1999  -  June 2002  (3 years)
+Skills
+Digital Strategy
+Digital Media
+Business Intelligence
+Business Operations
+Advertising Sales
+CRM
+Sales Process
+Analytics
+Sales Strategy
+Sales Operations
+Ad Exchanges
+Ad Networks
+Revenue Cycle Management
+Segmentation
+Pipeline Management
+Business Process Improvement
+Yield Management
+Real-Time Bidding
+Business Planning
+
+Account Management
+Advertising
+Strategy
+Business Development
+Strategic Partnerships
+Digital Marketing
+Online Advertising
+
+Education
+Master of Business Administration (M.B.A.)
+
+
+##########
+Name
+Mani P S
+Experience
+Associate Developer  at   SAP
+March 2017  -  Present (1 month)
+Scholar at Core platform ABAP server  at   SAP
+August 2015  -  March 2017  (1 year 8 months)
+Skills
+SAPUI5
+JavaScript
+Sap Fiori
+sap s/4 hana
+SAP HANA
+sap abap
+nodejs
+C
+C++
+Java
+SQL
+
+Programming
+MySQL
+Linux
+PHP
+C#
+
+Education
+Engineering
+Engineering
+
+
+##########
+Name
+Megharaj Mogaveer
+Experience
+Testing Executive  at   Infosys
+September 2016  -  Present (7 months)
+Skills
+Python
+MySQL
+RDBMS
+C#
+Java
+HTML5
+Selenium Testing
+ASP.NET
+JMeter
+Cascading Style Sheets (CSS)
+Selenium WebDriver
+Testing
+SQL
+HTML
+Microsoft SQL Server
+C
+C++
+Manual Testing
+Microsoft Office
+JavaScript
+Teamwork
+
+Megharaj Mogaveer
+Testing Executive at Infosys
+Contact Megharaj on LinkedIn
+
+Education
+
+
+##########
+Name
+MEHUL SHAH
+Experience
+Technology Strategist  at   Microsoft
+November 2016  -  Present (5 months)
+Sr. Technical Account Manager  at   Microsoft
+July 2015  -  November 2016  (1 year 5 months)
+Partner Technical Consultant Manager  at   Microsoft
+March 2011  -  July 2015  (4 years 5 months)
+Team Lead  at   Sungard Global Services
+July 2010  -  March 2011  (9 months)
+Sr. Team Manager  at   Convergys India Services
+March 2004  -  July 2010  (6 years 5 months)
+Skills
+Service Delivery
+IT Service Management
+Windows Server
+Cloud Computing
+ITIL
+Enterprise Software
+People Management
+Team Management
+Information Technology
+Incident Management
+Technical Support
+Project Management
+Consulting
+Vendor Management
+Employee Engagement
+Business Development
+Management
+IT Service Delivery
+Customer Relations
+Service Delivery Management
+Business Process Improvement
+Customer Relationship Management (CRM)
+Business Process Design
+Stakeholder Engagement
+Customer Engagement
+IT Strategy
+Pre-sales
+Microsoft Technologies
+
+Business Strategy
+Requirements Analysis
+Strategy
+
+Education
+Bachelor of Science
+
+
+##########
+Name
+Mohammed Fazal
+Experience
+Interactive Developer  at   Sapient
+June 2014  -  Present (2 years 10 months)
+Autonomous Pick and place robot
+November 2012 to Present
+SNOW RESCUER
+February 2013 to March 2013
+END-FIRE ARRAY SYNTHESIS AND DESIGN OF FEED NETWORK
+May 2013 to May 2014
+Skills
+HTML
+JavaScript
+Cascading Style Sheets (CSS)
+CSS Sprites
+C
+Matlab
+C++
+Microsoft Office
+Programming
+Market Research
+Java
+PowerPoint
+Microsoft Excel
+Microsoft Word
+Python
+Verilog
+Linux
+AngularJS
+
+Education
+Engineering
+
+
+##########
+Name
+Mohan Sreeram
+Experience
+Technical Lead  at   Cisco
+December 2014  -  Present (2 years 4 months)
+Senior Software Engineer  at   NDS services Pay TV Technology
+March 2011  -  November 2014  (3 years 9 months)
+Software Engineer  at   NDS services Pay TV Technology
+August 2007  -  March 2011  (3 years 8 months)
+Skills
+Android Development
+Agile Methodologies
+HTML 5
+JavaScript
+DRM
+Design Patterns
+Streaming Media
+Java
+Software Design
+Set Top Box
+Web Applications
+Digital TV
+DVB
+VOD
+C#
+ASP.NET
+SQL
+EPG
+Microsoft SQL Server
+XML
+HTML5
+
+
+Education
+Engineering
+Engineering
+
+
+##########
+Name
+Nagaraja Bhat T R
+Experience
+Testing Executive  at   Infosys limited
+September 2016  -  Present (7 months)
+Skills
+Microsoft Office
+Customer Service
+Management
+Microsoft Excel
+Microsoft Word
+Leadership
+PowerPoint
+Research
+Public Speaking
+Project Management
+
+Nagaraja Bhat T R
+Infosys Limited
+Contact Nagaraja on LinkedIn
+
+Education
+
+
+##########
+Name
+Namitha Sudheendra
+Experience
+Associate Developer  at   SAP
+January 2016  -  Present (1 year 3 months)
+Project Intern  at   ISRO Satellite Centre
+January 2015  -  April 2015  (4 months)
+Engineering Intern  at   Sienna ECAD Technologies Private Limited
+June 2014  -  July 2014  (2 months)
+Skills
+C
+C++
+ABAP
+Object-Oriented Programming (OOP)
+HTML
+
+Education
+Bachelor’s Degree
+Engineering
+
+
+##########
+Name
+Nilesh Sinha
+Experience
+
+Skills
+Microsoft Office
+C
+C++
+Project Management
+Java
+HTML
+Programming
+SQL
+MySQL
+Cascading Style Sheets (CSS)
+JavaScript
+React.js
+jQuery
+jQuery UI
+SASS
+AngularJS
+
+Nilesh Sinha
+Interactive Developer
+Contact Nilesh on LinkedIn
+
+Education
+Bachelor’s Degree
+Engineering
+
+
+##########
+Name
+Niru Rai
+Experience
+Project Manager  at   Cisco Systems
+October 2013  -  Present (3 years 6 months)
+HR [Campus Recruiter]  at   Cisco Systems
+October 2009  -  September 2013  (4 years)
+Talent Acquisition Specialist  at   Thomson Reuters
+January 2009  -  September 2009  (9 months)
+Skills
+Human Resources
+Technical Recruiting
+Talent Acquisition
+
+Screening
+Benefits Negotiation
+Recruiting
+HRIS
+Talent Management
+IT Solutions
+Internet Recruiting
+Employee Engagement
+Sourcing
+Screening Resumes
+Applicant Tracking Systems
+Vendor Management
+IT Recruitment
+
+Education
+
+
+##########
+Name
+NITHIN SRINIVAS
+Experience
+Senior Industrial Engineer  at   Bosch
+November 2016  -  Present (5 months)
+Graduate apperientice trainee  at   Bosch
+October 2015  -  October 2016  (1 year 1 month)
+Associate Software Engineer  at   Tech Mahindra
+July 2015  -  October 2015  (4 months)
+Project Intern  at   HMT Limited
+January 2015  -  May 2015  (5 months)
+Intern  at   JSW Steel Ltd
+July 2014  -  August 2014  (2 months)
+Skills
+Team Management
+CAM
+ANSYS
+Solid Edge
+Team Leadership
+Strategic Planning
+Anchoring
+Organizational Leadership
+Management
+Supply Chain Management
+Work Sampling
+Ergonomics
+Process Planning
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Nitish Kamal
+Experience
+Senior System Engineer  at   Infosys
+July 2016  -  Present (9 months)
+System Engineer  at   Infosys
+June 2014  -  Present (2 years 10 months)
+System Engineer  at   Infosys
+October 2014  -  June 2015  (9 months)
+Summer Intern  at   ANG Auto Ltd
+June 2013  -  July 2013  (2 months)
+Summer Trainee  at   Usha Martin Ltd.
+June 2012  -  July 2012  (2 months)
+summer training  at   heavy engineering corporation
+June 2011  -  July 2011  (2 months)
+Skills
+HTML
+JavaScript
+Databases
+C#
+.NET
+ADO.NET
+ASP.NET
+Microsoft SQL Server
+SoapUI
+Microsoft CRM
+Visual Studio
+WCF Services
+Plugins
+MS CRM 2011
+MS Crm 2015
+ms crm 2016
+MS CRM 2013
+
+Education
+
+
+##########
+Name
+Palle Kashyap
+Experience
+Programmer Analyst  at   Cognizant
+December 2015  -  Present (1 year 4 months)
+Executive Body Member  at   ROBOLUTION
+August 2012  -  August 2015  (3 years 1 month)
+Volunteer  at   N.S.S
+August 2011  -  April 2013  (1 year 9 months)
+ConWoIn
+August 2014 to Present
+Student Registration Portal Module
+March 2016 to April 2016
+Core Banking Services Module for Online Banking Solution using TIBCO BW
+April 2016 to May 2016
+Skills
+Core Java
+C
+SQL
+C++
+Programming
+Matlab
+Microcontrollers
+Robotics
+Microsoft Office
+Microsoft Excel
+Electronics
+Verilog
+VHDL
+Python
+PowerPoint
+multisim
+Xilinx ISE
+AVR Studio 4
+
+IAR Embedded Workbench
+Analog Circuits
+digital logic design
+Microprocessors
+Data Structures
+Windows
+Java
+Algorithms
+Microsoft Word
+
+Education
+Bachelor’s Degree
+Engineering
+
+
+##########
+Name
+Paresh Jain
+Experience
+General Manager - HR  at   Accenture
+May 2015  -  Present (1 year 11 months)
+Human Resources Manager  at   GE Healthcare
+October 2012  -  May 2015  (2 years 8 months)
+Human Resources Leader  at   GE Energy (Information Management)
+March 2011  -  October 2012  (1 year 8 months)
+Senior Specialist - Compensation & Benefits  at   Accenture
+November 2009  -  March 2011  (1 year 5 months)
+Human Resources Specialist (HR Generalist)  at   Accenture
+November 2007  -  November 2009  (2 years 1 month)
+Senior Analyst - Sourcing Planning (Talent Acquisition)  at   Accenture
+April 2006  -  November 2007  (1 year 8 months)
+Manager - Human Resources (HR Generalist)  at   Arvind Mills Ltd.
+September 2005  -  April 2006  (8 months)
+Manager - HR (Compensation & Benefits)  at   Arvind Mills Ltd.
+April 2004  -  September 2005  (1 year 6 months)
+Skills
+Talent Acquistion
+Compensation and Benefits
+HR Business Partner
+Talent Management
+Coaching
+Mentoring
+Talent Acquisition
+Performance Management
+Human Resources
+Personnel Management
+Recruiting
+Deferred Compensation
+Management
+Leadership
+Program Management
+Time Management
+Employee Engagement
+HRIS
+HR Policies
+Employee Relations
+HR Consulting
+Performance Appraisal
+HR Transformation
+Strategic HR
+Succession Planning
+Team Management
+Strategy
+
+Outsourcing
+Vendor Management
+Business Development
+Sourcing
+Change Management
+
+Education
+MBA
+BA
+
+
+##########
+Name
+Paul Mathew
+Experience
+Management Consultant  at   KPMG
+February 2012  -  Present (5 years 2 months)
+Product Marketing Head - Acquisitions & Usage and Retention  at   Aircel
+March 2011  -  February 2012  (1 year)
+Business Analyst to Chief Executive Officer  at   Bharti Airtel Limited
+February 2010  -  March 2011  (1 year 2 months)
+Product Manager - Value Added Services & Head – Public Relations  at   Bharti Airtel Limited
+October 2009  -  November 2010  (1 year 2 months)
+Buisness Analysto to COO - Kerala  at   Bharti Airtel Ltd
+February 2008  -  November 2010  (2 years 10 months)
+Product Marketing & Sales Operation  at   Bharti Airtel Limited
+March 2006  -  February 2008  (2 years)
+Sales Manager - Small & Medium Industries, Bangalore  at   Bharti Airtel Limited
+February 2005  -  March 2006  (1 year 2 months)
+Large Accounts Manager  at   Idea Cellular
+June 2004  -  February 2005  (9 months)
+Distribution & Channel Management - Prepaid Sales  at   Idea Cellular Ltd
+June 2002  -  May 2004  (2 years)
+Skills
+Retail
+Segments
+Strategic Planning
+Product Marketing
+Forecasting
+Budget
+
+Telecommunications
+Product Management
+Team Management
+Key Account Management
+Business Development
+Competitive Analysis
+Sales Operations
+Vendor Management
+VAS
+Channel
+Business Strategy
+Business Continuity Planning
+Management
+Channel Partners
+Wireless
+Management Consulting
+Business Analysis
+Enterprise Software
+Analytics
+Marketing Analytics
+Product Development
+Team Leadership
+Budgets
+Consulting
+Go-to-market Strategy
+E-commerce
+Strategy
+Business Intelligence
+Account Management
+Pharmaceutical Industry
+Retail Banking
+Big Data Analytics
+Video Analytics
+real time analytics
+advanced analytics
+
+Education
+
+
+##########
+Name
+Pooja Sathyanarayana Bhat
+Experience
+Project Planner  at   Ericsson
+October 2015  -  Present (1 year 6 months)
+Skills
+Microsoft Office
+PowerPoint
+Microsoft Word
+SharePoint
+excel vba
+C
+Matlab
+Electronics
+Programming
+C++
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Pooja U Tata
+Experience
+Engineer.IT Engineering  at   Cisco
+August 2016  -  Present (8 months)
+Intern  at   Center for Cloud Computing and Big Data
+June 2014  -  October 2016  (2 years 5 months)
+Intern IT Engineer  at   Cisco
+January 2016  -  June 2016  (6 months)
+Member Technical Staff  at   Ordell Ugo
+August 2013  -  May 2016  (2 years 10 months)
+Summer Intern  at   EMC
+June 2015  -  July 2015  (2 months)
+Skills
+C
+Java
+Python
+C++
+Data Structures
+Algorithms
+Databases
+Programming
+MySQL
+MongoDB
+JavaScript
+HTML
+Linux
+Android SDK
+Microsoft Office
+SQL
+PHP
+HTML5
+Microsoft Word
+PowerPoint
+Android Development
+
+Android
+jQuery
+Computer Networking
+
+Education
+Engineering
+
+
+##########
+Name
+Prabhu Shanmugavelu
+Experience
+Software Engineer  at   Cisco Systems
+January 2012  -  Present (5 years 3 months)
+Technical lead  at   Wipro Technologies
+December 2006  -  January 2012  (5 years 2 months)
+Project Engineer at TCNE  at   Kalasalingam University
+June 2005  -  December 2006  (1 year 7 months)
+Skills
+IP Multicast
+IGMP Snooping
+MVPN
+PIM-SM
+Routing Protocols
+OSPF
+Network Engineering
+Catalyst Switches
+Cisco Routers
+VLAN
+RIP
+Testing
+TCP/IP
+Shell Scripting
+Routing
+Firewalls
+Requirements Analysis
+Switches
+Networking
+Internet Protocol Suite (TCP/IP)
+
+Education
+Engineering
+Engineering
+Engineering
+Engineering
+
+
+##########
+Name
+Pranav Wagh
+Experience
+Escalation Engineer  at   Microsoft India
+January 2014  -  Present (3 years 3 months)
+Support Escalation Engineer  at   Microsoft India
+November 2010  -  January 2014  (3 years 3 months)
+Technical Leader  at   Microsoft India
+August 2008  -  November 2010  (2 years 4 months)
+Developer Support Engineer  at   Microsoft India
+January 2005  -  August 2008  (3 years 8 months)
+Team Leader/Software Engineer  at   Shesha Computers
+April 2003  -  December 2004  (1 year 9 months)
+Software Developer/Computer Programmer/Assistant Programmer  at   Intsoft/ Wintech
+February 2001  -  April 2003  (2 years 3 months)
+Lab Incharge/ Faculty  at   Dugar Computers
+July 1999  -  January 2001  (1 year 7 months)
+Microsoft India (R & D) Pvt. Ltd.
+October 2006
+Microsoft India (R & D) Pvt. Ltd.
+October 2008
+Skills
+C#
+.NET
+Debugging
+WinDbg
+VSTO
+Windows Phone
+COM Addins
+Office Programmability
+IIS
+ASP.NET
+Web Services
+VB.NET
+C++
+SharePoint
+Microsoft SQL Server
+Databases
+Microsoft Technologies
+Visual Studio
+SQL
+.NET Framework
+Cloud Computing
+Internet Information Services (IIS)
+Microsoft Products
+
+
+Education
+
+
+##########
+Name
+Pravardhan Kalkur
+Experience
+Network Consulting Engineer  at   Cisco Systems
+July 2013  -  Present (3 years 9 months)
+Graduate Student at BITS Pilani  at   BITS-PILANI
+September 2016  -  Present (7 months)
+Intern  at   Cisco Systems
+January 2013  -  June 2013  (6 months)
+Skills
+Networking
+Cisco IOS
+IOS-XR
+TCP/IP
+IGP
+BGP
+MPLS
+MPLS VPN
+Routing
+Switching
+QoS
+IP Multicast
+Python
+C
+C++
+VHDL
+Xilinx
+RIP
+OSPF
+EIGRP
+IS-IS
+GNS3
+Microcontrollers
+Embedded Systems
+DSP Processors
+VLSI
+Matlab
+Routing Protocols
+CCNP
+
+Education
+Engineering
+
+
+##########
+Name
+Praveen Gore
+Experience
+Principal Consultant  at   Infosys
+October 2015  -  Present (1 year 6 months)
+Staff Engineer  at   Qualcomm
+September 2014  -  September 2015  (1 year 1 month)
+Lead Engineer, Senior  at   Qualcomm
+June 2012  -  September 2014  (2 years 4 months)
+Technical Lead  at   Wipro Technologies
+November 2010  -  June 2012  (1 year 8 months)
+Member of Technical Staff  at   Karnataka Microelectronic Design Centre
+June 2004  -  November 2010  (6 years 6 months)
+Skills
+Automation
+Shell Scripting
+Perl
+Unix Shell Scripting
+TCL
+Physical Design
+Timing Closure
+ASIC
+Static Timing Analysis
+Debugging
+VLSI
+Integrated Circuit Design
+Verilog
+Testing
+Microprocessors
+EDA
+SoC
+Logic Synthesis
+SystemVerilog
+DRC
+Functional Verification
+ARM
+Semiconductors
+RTL design
+Cadence Virtuoso
+Mixed Signal
+LVS
+RTL coding
+IC
+ModelSim
+
+VHDL
+NCSim
+CMOS
+Analog
+Very-Large-Scale Integration (VLSI)
+Application-Specific Integrated Circuits (ASIC)
+System on a Chip (SoC)
+
+Education
+
+
+##########
+Name
+Pravin Shenoy
+Experience
+Senior System Engineer  at   Infosys
+January 2017  -  Present (3 months)
+System Engineer  at   Infosys
+April 2015  -  December 2016  (1 year 9 months)
+System Engineer Trainee  at   Infosys
+December 2014  -  March 2015  (4 months)
+Skills
+SQL
+Object-Oriented Programming (OOP)
+Core Java
+HTML5
+Cascading Style Sheets (CSS)
+JavaScript
+Bootstrap
+AngularJS
+Hibernate
+Java Database Connectivity (JDBC)
+JavaServer Faces (JSF)
+JavaServer Pages (JSP)
+RESTful WebServices
+Python
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Raghavendra Kamma
+Experience
+Senior Software Engineer  at   Bosch
+October 2016  -  Present (6 months)
+Senior Software Engineer  at   Robert Bosch (Australia) Pty. Ltd.
+January 2017  -  February 2017  (2 months)
+Associate Software Engineer  at   Bosch
+June 2014  -  September 2016  (2 years 4 months)
+Software Engineering Intern  at   Bosch
+January 2014  -  May 2014  (5 months)
+Student Intern  at   Bharat Sanchar Nigam Limited
+June 2013  -  July 2013  (2 months)
+Robust Control of Robot Manipulator using Uncertainty and Disturbance Estimation
+January 2014 to April 2014
+Bluetooth Test Automation
+January 2014 to May 2014
+Skills
+Embedded Systems
+Microcontrollers
+Embedded C
+Electronics
+Verilog
+C
+Programming
+VHDL
+Amateur Photographer
+Python
+Bluetooth
+WiFi
+MirrorLink
+
+CarPlay
+Wireless
+Testing
+Telecommunications
+Test Automation
+Robotics
+Automation
+Microprocessors
+System Testing
+Automotive
+Matlab
+Microsoft Office
+Android
+Simulink
+Microsoft PowerPoint
+C++
+
+Education
+Engineering
+
+
+##########
+Name
+Ravi Sudhakar Kambhampati
+Experience
+Sr. Sales and Technology Strategist (Large GSI)  at   Microsoft
+January 2016  -  Present (1 year 3 months)
+Sales and Technology Strategist (Large GSI  at   Microsoft
+October 2014  -  Present (2 years 6 months)
+Sr. Business Development Manager- Banking/FSI  at   Microsoft
+January 2013  -  October 2014  (1 year 10 months)
+Business Development Manager- Banking/FSI  at   Microsoft
+February 2012  -  January 2013  (1 year)
+Senior Services Account Manager (Large GSI)  at   Microsoft
+October 2008  -  February 2012  (3 years 5 months)
+Senior Consultant  at   Microsoft
+September 2007  -  September 2008  (1 year 1 month)
+Escalation Engineer  at   Microsoft
+January 2005  -  September 2007  (2 years 9 months)
+Technical Lead  at   Microsoft
+September 2004  -  January 2005  (5 months)
+SQL Server Developer Support Engineer  at   Microsoft
+January 2004  -  August 2004  (8 months)
+Product Release Manager  at   Tata Consultancy Services
+March 2003  -  January 2004  (11 months)
+Testing Lead and Release Manager  at   Tata Consultancy Services
+July 2002  -  March 2003  (9 months)
+Member of Technical Staff  at   Tata Consultancy Services
+June 2000  -  June 2001  (1 year 1 month)
+Skills
+IT Strategy
+Pre-sales
+Management
+Cloud Computing
+Business Development
+Management Consulting
+Consulting
+Solution Architecture
+Enterprise Architecture
+Service Delivery
+Enterprise Software
+SDLC
+Leadership
+Sales
+Software Consulting
+Consultative Selling
+Team Management
+Strategy
+Process Excellence
+Software Project Management
+New Business Development
+
+Vendor Management
+Sales Management
+IaaS
+PaaS
+SaaS
+Azure
+Databases
+Presentation Skills
+Persuasive Presentations
+Office 365
+Software as a Service (SaaS)
+Business Strategy
+Software Development Life Cycle (SDLC)
+Go-to-market Strategy
+Team Leadership
+Account Management
+Microsoft Products
+Partner Management
+Strategic Partnerships
+Business Alliances
+Business Intelligence
+Project Management
+Customer Relationship Management (CRM)
+Program Management
+Microsoft SQL Server
+Business Analysis
+Integration
+ITIL
+IT Service Management
+
+Education
+General Management
+Engineering
+
+
+##########
+Name
+Ravi J
+Experience
+Senior R & D Engineer  at   Bosch
+March 2011  -  Present (6 years 1 month)
+Senior Design Engineer  at   Nissan Motor Manufacturing Ltd.
+April 2009  -  March 2011  (2 years)
+Engineer Design  at   Tata Group
+August 2007  -  March 2009  (1 year 8 months)
+Skills
+Catia v5
+Solid Edge
+Unigraphics
+Engineering
+Teamcenter
+Automotive
+Product Design
+GD&T
+Pro Engineer
+Product Development
+Catia
+Finite Element Analysis
+ANSYS
+Solidworks
+Automotive Engineering
+Mechanical Engineering
+Sheet Metal
+Design for Manufacturing
+CATIA
+SolidWorks
+NX Unigraphics
+PTC Creo
+Geometric Dimensioning & Tolerancing
+Manufacturing
+CAD
+FMEA
+
+
+Education
+Engineering
+
+
+##########
+Name
+Ravindra Nagaraja
+Experience
+Vice President - India Talent Acquisition Shared Services  at   Accenture
+April 2016  -  Present (1 year)
+Vice President - Client Relationship Lead  at   Accenture
+May 2015  -  April 2016  (1 year)
+Vice President - Global Service Delivery Lead  at   Accenture
+September 2013  -  June 2015  (1 year 10 months)
+GM - Learning Service Delivery and Training Administration  at   Accenture
+March 2010  -  August 2013  (3 years 6 months)
+Manager - Learning Scheduling & Administration  at   Accenture India Services
+June 2007  -  February 2010  (2 years 9 months)
+Manager Operations  at   Convergys
+April 2003  -  January 2007  (3 years 10 months)
+Team Lead - Operations  at   e4e Inc (Formerly known as iSeva Systems)
+November 2001  -  April 2003  (1 year 6 months)
+Programmer  at   Infoniche Technologies Pvt Ltd
+January 2000  -  October 2001  (1 year 10 months)
+Skills
+Team Management
+Order Management
+Transition Management
+Process Improvement
+CRM
+Call Center
+Management
+Contract Negotiation
+Six Sigma
+
+Change Management
+Service Delivery
+BPO
+Analysis
+Business Strategy
+Business Analysis
+Business Development
+Leadership
+Business Process Improvement
+Project Management
+Performance Management
+Program Management
+Training
+Vendor Management
+ITIL
+Operations Management
+Customer Relationship Management (CRM)
+Outsourcing
+Business Process Outsourcing (BPO)
+Call Centers
+IT Service Management
+Quality Assurance
+Contact Centers
+
+Education
+B Sc
+Bachelor of Science
+
+
+##########
+Name
+Revathi M P
+Experience
+Product Owner SAP ILM  at   SAP
+December 2016  -  Present (4 months)
+Senior Developer  at   SAP Labs India
+January 2013  -  November 2016  (3 years 11 months)
+Principal Software Engineer  at   SAP Labs
+August 2010  -  January 2013  (2 years 6 months)
+Sr. Software Engineer  at   SAP Labs
+April 2006  -  October 2010  (4 years 7 months)
+Development Specalist  at   SAP Labs India
+April 2006  -  June 2008  (2 years 3 months)
+Skills
+ABAP-OO
+ABAP Web Dynpro
+SAP Information Life Cycle Management
+SAP Enhancement Framework
+SAP Data Archiving
+SAP BW
+Java
+Agile Methodologies
+SAP
+Testing
+Software Development
+
+C
+Spring
+Process orchestration
+
+Education
+Engineering
+
+
+##########
+Name
+Roopika Srinivas
+Experience
+Associate Quality Engineer  at   SAP Labs India PVT. LTD.
+July 2014  -  Present (2 years 9 months)
+ App also using Appium and Junit/TestNG test cases.
+April 2015 – April 2016 : Afaria On Premise (Web Portal) Automation using .Net Selenium Framework and
+Placement Coordinator  at   UVCE
+March 2013  -  June 2014
+Placement Volunteer UVCE for TCS Campus Recruitment  at   Placement Volunteer, UVCE
+September 2012  -  Present
+Skills
+Java
+JavaScript
+C
+HTML5
+C++
+PHP
+MySQL
+Selenium WebDriver
+Eclipse
+SAPUI5
+DBMS
+SQL
+Data Structures
+Operating Systems
+Testing
+Linux
+Microsoft Office
+XML
+Windows
+
+Education
+Engineering
+Engineering
+
+
+##########
+Name
+Sander van 't Noordende
+Experience
+Group Chief Executive Products Operating Group  at   Accenture
+January 2014  -  Present (3 years 3 months)
+Board Member  at   Avanade
+April 2015  -  Present (2 years)
+Group Chief Executive Management Consulting  at   Accenture
+March 2011  -  December 2013  (2 years 10 months)
+Group Chief Executive Resources  at   Accenture
+September 2006  -  February 2011  (4 years 6 months)
+Client Service Group Managing Partner  at   Accenture
+September 2003  -  September 2006  (3 years 1 month)
+Country Managing Director The Netherlands  at   Accenture
+September 2001  -  September 2006  (5 years 1 month)
+Partner  at   Accenture
+September 1999  -  September 2001  (2 years 1 month)
+October 1987  -  September 1999  (12 years)
+Skills
+Strategy
+Management Consulting
+Outsourcing
+Business Development
+Management
+CRM
+Leadership
+Consulting
+Enterprise Software
+Energy
+Finance
+Sustainability
+Business Transformation
+Change Management
+Business Strategy
+Business Process Improvement
+Business Analysis
+Program Management
+Project Management
+Business Process
+IT Strategy
+Business Intelligence
+Professional Services
+Strategic Planning
+Executive Management
+
+ERP
+Integration
+Governance
+Mergers & Acquisitions
+
+Education
+Engineering
+
+
+##########
+Name
+Sandhya Rani
+Experience
+Programmer Analyst  at   Cognizant Technology Solutions
+January 2015  -  Present (2 years 3 months)
+Skills
+C
+Microsoft Office
+PowerPoint
+SQL
+
+Education
+Engineering
+
+
+##########
+Name
+Sanketh Kamath
+Experience
+Programmer Analyst  at   Cognizant Technology Solutions
+October 2013  -  Present (3 years 6 months)
+Skills
+Java
+C
+C++
+HTML
+Microsoft Word
+Linux
+SQL
+PowerPoint
+Microsoft Excel
+Core Java
+Windows
+JavaScript
+MySQL
+CSS
+Adobe Experience Manager
+
+Education
+
+
+##########
+Name
+Sheethal J
+Experience
+Associate Manager  at   Accenture
+September 2006  -  Present (10 years 7 months)
+Associate Manager ( Technical Architect)  at   Accenture
+July 2016  -  Present (9 months)
+March 2016  -  June 2016  (4 months)
+Technical Lead  at   Accenture
+October 2015  -  February 2016  (5 months)
+Ops Lead  at   Accenture
+July 2015  -  September 2015  (3 months)
+Build Lead (Systems Analyst/Team Lead)  at   Accenture
+September 2013  -  June 2015  (1 year 10 months)
+Build Lead  at   Accenture
+September 2012  -  August 2013  (1 year)
+Senior Software Engineer (Analyst Programmer)  at   Accenture
+February 2010  -  August 2012  (2 years 7 months)
+Software Engineer (Senior Programmer)  at   Accenture
+December 2007  -  February 2010  (2 years 3 months)
+Associate Software Engineer (Programmer)  at   Accenture
+September 2006  -  November 2007  (1 year 3 months)
+Skills
+SQL
+Microsoft SQL Server
+Data Synchronization
+Requirements Analysis
+SDLC
+
+PL/SQL
+Software Development Life Cycle (SDLC)
+Agile Methodologies
+Project Management
+Project Planning
+Web Services
+Business Analysis
+Business Requirements
+Software Documentation
+Visio
+Project Estimation
+C#
+Scheduling
+Microsoft Sync Framework
+Requirements Gathering
+Software Development
+
+Education
+Master’s Degree
+Bachelor’s Degree
+
+
+##########
+Name
+Shireesha Abhilash
+Experience
+Specialist  at   Bosch
+September 2015  -  Present (1 year 7 months)
+Senior Engineer  at   GKN Aerospace
+October 2012  -  March 2014  (1 year 6 months)
+CAE Senior Engineer  at   Volvo Aero Corporation
+December 2010  -  September 2012  (1 year 10 months)
+Stress Analysis Engineer  at   GE Energy
+June 2007  -  December 2010  (3 years 7 months)
+Skills
+Unigraphics
+Turbines
+Stress Analysis
+ANSYS
+Structural Engineering
+
+Aerospace Engineering
+CAE
+Fatigue Analysis
+Pro Engineer
+Hypermesh
+Engineering Design
+Gas Turbines
+Finite Element Analysis
+Engineering
+Structural Analysis
+Solid Mechanics
+MSC.Patran
+Nastran
+
+Education
+Engineering
+Engineering
+BTech
+
+
+##########
+Name
+Shivesh Kumar Jha
+Experience
+Sr Associate  at   Sapient
+August 2016  -  Present (8 months)
+Software Engineer  at   Accenture
+March 2014  -  July 2016  (2 years 5 months)
+Software Development Analyst  at   Dell
+December 2012  -  February 2014  (1 year 3 months)
+Shivesh kumar jha  at   Moser Baer India Ltd
+April 2010  -  October 2012  (2 years 7 months)
+Skills
+JavaScript
+Programming
+Web Services
+SQL
+HTML
+ASP.NET
+Microsoft SQL Server
+C#
+Oracle 11g
+WCF
+Visual Studio 2012/2010/2005
+TFS
+SSRS 2008
+MVC 4
+jQuery
+Software Development
+PL/SQL
+.NET
+Oracle
+SSRS
+
+Education
+
+
+##########
+Name
+Shristi Drolia
+Experience
+Development Associate Consultant  at   SAP
+August 2016  -  Present (8 months)
+Skills
+C
+C++
+HTML
+MySQL
+Java
+Microsoft Office
+Programming
+CSS
+PowerPoint
+Dance
+Databases
+Leadership
+SQL
+PHP
+Python
+JavaScript
+Team Management
+Linux
+Volunteer Experience
+Organizer  at   OUR HOME NGO
+
+
+Education
+Engineering
+BA
+Bachelor’s Degree
+
+
+##########
+Name
+Shruthi Thirugnanam
+Experience
+Associate  at   Cognizant
+May 2016  -  Present (11 months)
+Software Engineering analyst  at   Accenture
+February 2013  -  May 2016  (3 years 4 months)
+Skills
+C
+SQL
+Functional Testing
+Manual Testing
+Testing
+MySQL
+RDBMS
+
+Requirements Analysis
+Quality Center
+Regression Testing
+System Testing
+Integration Testing
+ETL testing
+Database Testing
+Data warehouse testing
+Netezza
+Microsoft SQL Server
+Test Preparation
+Test Execution
+Agile Testing
+Big data testing
+Report testing
+
+Education
+Engineering
+
+
+##########
+Name
+Shwetha Nairy
+Experience
+Sr Software engineer  at   SAP Labs
+July 2008  -  Present (8 years 9 months)
+Software engineer  at   Aditi Technologies
+July 2007  -  July 2008  (1 year 1 month)
+Software engineer  at   Aditi Technologies
+July 2007  -  June 2008  (1 year)
+Skills
+Banking
+ABAP
+Requirements Analysis
+Software Development
+XML
+Agile Methodologies
+JavaScript
+Design Thinking
+Sap Fiori
+Java
+Test Driven Development
+Customer Experience
+OData
+Scrum
+
+Education
+
+
+##########
+Name
+Sivasankari Ramamurthy
+Experience
+Senior Manager Tech  at   Sapient
+January 2014  -  Present (3 years 3 months)
+Manager ,Technology  at   Sapient Global Markets
+March 2005  -  December 2013  (8 years 10 months)
+Tech Lead  at   IBM Global Services India Ltd
+February 2003  -  March 2005  (2 years 2 months)
+Member of Techncal Staff  at   Savvion India Ltd
+September 2000  -  January 2003  (2 years 5 months)
+Skills
+Enterprise Architecture
+Agile Methodologies
+Java Enterprise Edition
+Requirements Analysis
+Software Development
+Oracle
+SOA
+SDLC
+Microsoft SQL Server
+Software Project Management
+Solution Architecture
+Web Services
+SQL
+Business Analysis
+XML
+Volunteer Experience
+Life member and volunteer, Former School Head  at   Aashayein Foundation
+May 2010  -  Present
+
+Sivasankari Ramamurthy
+Senior Manager Technology at Sapient Global Markets
+Contact Sivasankari on LinkedIn
+
+Education
+
+
+##########
+Name
+Sonal Sachdev
+Experience
+Senior Associate, Hiring  at   Sapient
+January 2016  -  Present (1 year 3 months)
+Deputy Manager - HRD  at   NDTV
+April 2015  -  October 2015  (7 months)
+Manager - Human Resources  at   Thomas Cook (India) Ltd
+September 2012  -  April 2015  (2 years 8 months)
+Senior Executive - Human Resources  at   AbsolutData Analytics
+December 2011  -  September 2012  (10 months)
+Human Resources  at   Copal Partners
+February 2010  -  December 2011  (1 year 11 months)
+Associate Consultant-Energy  at   Manpower Professionals
+July 2007  -  February 2010  (2 years 8 months)
+Skills
+Talent Acquisition
+Human Resources
+Social Networking
+Recruiting
+Hiring
+Internet Recruiting
+
+Education
+MBA
+BA
+
+
+##########
+Name
+Srinivas PBS
+Experience
+Director  at   KPMG
+April 2015  -  Present (2 years)
+Member  at   Data Security Council of India
+December 2008  -  Present (8 years 4 months)
+Vice President  at   Goldman Sachs
+May 2011  -  March 2015  (3 years 11 months)
+Manager - IT Advisory  at   KPMG
+October 2008  -  April 2011  (2 years 7 months)
+Asst. Manager - IT Advisory  at   KPMG
+January 2007  -  September 2008  (1 year 9 months)
+Security Executive  at   Reliance Infocomm
+September 2003  -  December 2004  (1 year 4 months)
+Trainee - Security Group  at   Reliance Industries Limited
+September 2002  -  August 2003  (1 year)
+Skills
+Governance
+IT Strategy
+Information Security
+Information Security Management
+
+Vendor Management
+ISO 27001
+Information Technology
+Business Analysis
+Program Management
+ITIL
+IT Audit
+BS7799
+Change Management
+PMO
+Business Process Improvement
+Compliance Program Management
+Sarbanes-Oxley Act
+Security Awareness
+Mentoring
+Incident Management
+Business Process Re-engineering
+Information Security Policy
+Analytics
+Budgets
+BS25999
+IT Governance
+Lead Generation
+Thought Leadership
+Business Process Design
+Security Policy Development
+ITGC
+Project Governance
+Technology Planning
+IT Risk
+IS Governance
+Metrics Definition
+Innovative Thinking
+BCM
+Supplier Management
+Organizational Reengineering
+Technology Risk Transformation
+Third Party Risk Management
+Risk and Control Automation
+Technology Risk Strategy
+Control Design
+
+Education
+
+
+##########
+Name
+Subhash Mukundan
+Experience
+Associate Director  at   KPMG
+September 2014  -  Present (2 years 7 months)
+Regional Manager / Branch Manager - IBM Kerala  at   IBM India Pvt Ltd
+January 2012  -  September 2014  (2 years 9 months)
+Relationship Manager  at   IBM India Pvt Ltd
+December 2008  -  December 2011  (3 years 1 month)
+Account Manager  at   SAP India Pvt Ltd
+June 2008  -  November 2008  (6 months)
+Relationship Manager  at   IBM India Pvt Ltd
+January 2007  -  June 2008  (1 year 6 months)
+Business Manager  at   Mastek MSC SDN BHDb
+March 2003  -  January 2007  (3 years 11 months)
+Sales Engineer  at   Miyakawa Drives and Controls Ltd
+November 2001  -  February 2003  (1 year 4 months)
+Business Development Executive  at   Future Focus infotech Pvt Ltd
+May 2000  -  October 2001  (1 year 6 months)
+Skills
+Requirements Analysis
+Pre-sales
+Business Planning
+Solution Selling
+Selling
+Outsourcing
+Business Development
+Management
+Sales
+Banking
+Leadership
+Security
+Strategic Partnerships
+Strategy
+SDLC
+SAP
+Team Management
+Business Strategy
+Account Management
+Business Process
+IT Strategy
+Vendor Management
+Business Analysis
+Customer Relationship Management (CRM)
+Enterprise Software
+Consulting
+
+Education
+
+
+##########
+Name
+Suchitra Srinath
+Experience
+HR Business Partner - Accenture Operations, APAC  at   Accenture
+September 2015  -  Present (1 year 7 months)
+Vice President - HR Strategic Initiatives & Programs  at   Accenture
+June 2014  -  September 2015  (1 year 4 months)
+Vice President - Global Analytics & Business Support  at   Accenture
+August 2012  -  June 2014  (1 year 11 months)
+January 2010  -  August 2012  (2 years 8 months)
+Dy. General Manager  at   IBM
+August 1997  -  December 2009  (12 years 5 months)
+Skills
+Vendor Management
+Program Management
+Management
+Outsourcing
+Performance Management
+Talent Acquisition
+Strategy
+Change Management
+Employee Relations
+Business Analysis
+Risk Management
+Human Resources
+Payroll
+Project Management
+Team Management
+
+Recruiting
+Leadership
+
+Education
+General Management
+Bachelor of Commerce
+
+
+##########
+Name
+Sudheer Kumar D
+Experience
+Manager  at   Sapient
+August 2016  -  Present (8 months)
+Senior Associate  at   Sapient
+November 2012  -  July 2016  (3 years 9 months)
+Technical Consultant  at   JDA Software
+September 2011  -  November 2012  (1 year 3 months)
+Sr Software Engineer  at   Mindtree
+August 2010  -  September 2011  (1 year 2 months)
+Associate Consultant  at   Oracle
+August 2008  -  August 2010  (2 years 1 month)
+Skills
+Compliance Management Reporting Systerm
+FATCA
+GDD
+Hedge Funds
+Data Warehousing
+Netezza DB
+Netezza Striper
+SQL
+Microsoft SQL Server
+PL/SQL
+Sybase Adaptive Server
+Oracle
+Unix Shell Scripting
+Performance Tuning
+Databases
+Shell Scripting
+SSIS
+Business Analysis
+Java
+Requirements Analysis
+Business Intelligence
+ETL
+C
+Agile Methodologies
+
+Education
+Engineering
+Engineering
+Bachelor of Engineering (B.E.)
+Engineering
+
+
+##########
+Name
+Sudhir Kumar Urs
+Experience
+Associate Director - Transition & Transformation  at   Cognizant
+January 2016  -  Present (1 year 3 months)
+IS Program Manager  at   Tata Consultancy Services
+April 2011  -  January 2016  (4 years 10 months)
+Project Manager  at   Tata Consultancy Services
+April 2008  -  January 2016  (7 years 10 months)
+Technical Consultant  at   Hewlett Packard Enterprise
+July 2001  -  April 2008  (6 years 10 months)
+Technical Consultant  at   Compaq Corp
+July 2000  -  July 2001  (1 year 1 month)
+Skills
+Service Delivery
+ITIL
+IT Service Management
+Pre-sales
+Incident Management
+System Deployment
+Transition Management
+Remote Infrastructure Management
+Requirements Analysis
+Solution Architecture
+Virtualization
+Citrix
+Service Desk
+IT Operations
+Vendor Management
+IT Strategy
+Service Management
+Software Project Management
+Project Management
+Data Center
+Global Delivery
+
+Project Delivery
+Consulting
+
+Education
+Engineering
+
+
+##########
+Name
+Sujay Vittal
+Experience
+Developer Associate  at   SAP Labs
+August 2016  -  Present (8 months)
+Facilitator - Applied CS with Android  at   Google
+March 2016  -  December 2016  (10 months)
+Software Developer Intern  at   SAP Ariba
+January 2016  -  July 2016  (7 months)
+April 2013  -  May 2016  (3 years 2 months)
+Udacity Code Reviewer  at   Udacity
+July 2015  -  December 2015  (6 months)
+Student Ambassador  at   Google
+August 2014  -  November 2015  (1 year 4 months)
+Mobile App Developer - Android / iOS  at   Boutline
+May 2015  -  July 2015  (3 months)
+Software Research Intern  at   Unisys Global Services India
+June 2014  -  August 2014  (3 months)
+Skills
+C
+Java
+C++
+Data Structures
+Android
+HTML
+Algorithms
+CSS
+Programming
+Python
+JavaScript
+MySQL
+Android Application Developement
+OOP
+Linux
+SQL
+PHP
+PowerPoint
+Machine Learning
+Data Mining
+JSON
+Representational State Transfer (REST)
+Git
+iOS Development
+
+Education
+
+
+##########
+Name
+Sujith PV
+Experience
+Manager Technology  at   Sapient
+January 2017  -  Present (3 months)
+Senior Associate Technology L2  at   Sapient
+August 2014  -  December 2016  (2 years 5 months)
+Senior Associate Technology L1  at   Sapient
+February 2012  -  August 2014  (2 years 7 months)
+Senior Web Developer  at   Software Associates
+April 2007  -  February 2012  (4 years 11 months)
+Skills
+ASP.NET
+Web Services
+Microsoft SQL Server
+WCF
+jQuery
+C#
+JavaScript
+ASP.NET MVC
+SharePoint
+Windows Sharepoint Services
+MVC
+REST
+Windows Communication Foundation (WCF)
+SSRS
+Umbraco
+AJAX
+Microsoft Office Sharepoint Server
+SSIS
+Web API
+Moq
+MbUnit
+Rhino ETL
+.NET
+Requirements Analysis
+ASP.NET AJAX
+Gallio
+Node.js
+IOT
+Arduino
+Entity Framework
+JSON
+.NET Framework
+Web Services API
+Docker
+Riemann
+InfluxDb
+Grafana
+
+Red Hat Linux
+Varnish Caching
+SQL Server Reporting Services (SSRS)
+Representational State Transfer (REST)
+SQL Server Integration Services (SSIS)
+
+Education
+Engineering
+Engineering
+
+
+##########
+Name
+Sundar Rajan
+Experience
+Associate Consultant  at   KPMG
+June 2014  -  Present (2 years 10 months)
+Project Trainee  at   Siemens
+June 2013  -  July 2013  (2 months)
+Skills
+Auditing
+Risk Consulting
+ISAE 3402
+Internal Audit
+SOX 404
+External Audit
+Business Control
+
+Education
+Engineering
+
+
+##########
+Name
+Suneet Suthan
+Experience
+Associate Creative Director - Experience Design  at   Sapient
+January 2016  -  Present (1 year 3 months)
+Manager - Experience Design  at   Sapient
+March 2012  -  December 2015  (3 years 10 months)
+Limited
+April 2011  -  February 2012  (11 months)
+Centre of Excellence Lead  at   Human Factors International
+January 2009  -  March 2011  (2 years 3 months)
+Sr. Human Factors Specialist  at   Human Factors International
+October 2007  -  December 2008  (1 year 3 months)
+Human Factors Specialist  at   Human Factors International
+March 2006  -  September 2007  (1 year 7 months)
+Skills
+Information Architecture
+User Experience
+Usability Testing
+User Interface Design
+User Experience Design
+User-centered Design
+Wireframes
+User Research
+Usability
+Wireframing
+
+Education
+Engineering
+
+
+##########
+Name
+Tannu Dorbi
+Experience
+Junior Engineer  at   robert bosch
+January 2016  -  Present (1 year 3 months)
+Skills
+Microsoft Office
+Project Management
+Microsoft Excel
+Engineering
+Management
+Microsoft PowerPoint
+Customer Service
+C
+C++
+Leadership
+Linux System Administration
+
+Tannu Dorbi
+Junior Engineer at robert bosch
+Contact Tannu on LinkedIn
+
+Education
+
+
+##########
+Name
+Udhaya kumar Thirupparangiri
+Experience
+Manager Engineering  at   Cisco
+April 2016  -  Present (1 year)
+Quality Assurance Manager  at   Amazon
+October 2014  -  April 2016  (1 year 7 months)
+Manager Test Engineering  at   Aricent Technologies ltd
+October 2012  -  October 2014  (2 years 1 month)
+Senior Tech Lead  at   HCL Technologies
+January 2002  -  October 2012  (10 years 10 months)
+Skills
+Manual Testing
+L2/L3 protocols
+MPLS
+MPLS VPN
+L2VPN
+OSPF
+BGP
+RIP
+STP
+TCL
+Test Automation
+Cisco VoIP
+IP Multicast
+QoS
+SNMP
+NTP
+NAT
+
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Vaibhav Kumar
+Experience
+Senior System Engineer  at   Infosys
+April 2016  -  Present (1 year)
+software engineer  at   Infosys
+February 2014  -  April 2016  (2 years 3 months)
+Skills
+c sharp
+C#
+ASP.NET
+Telerik Web Controls
+WCF Services
+Bootstrap
+JSON
+Web Services
+Windows Services
+ASP.NET AJAX
+Data Structures
+C
+Java
+JavaScript
+Programming
+SQL
+
+
+Education
+Bachelor’s Degree
+
+
+##########
+Name
+Venkataramana Solleti
+Experience
+Associate Director  at   Cognizant
+May 2015  -  Present (1 year 11 months)
+Delivery Manager  at   Wipro
+April 2013  -  May 2015  (2 years 2 months)
+Program Manager  at   Wipro Technologies
+May 2009  -  March 2013  (3 years 11 months)
+Project Manager at UBS Stamford  at   Wipro Technologies
+December 2005  -  February 2006  (3 months)
+Project Manager at Pitney Bowes  at   Wipro Technologies
+October 2004  -  December 2005  (1 year 3 months)
+Skills
+Vendor Management
+Requirements Analysis
+Project Management
+Management
+ITIL
+PMP
+Project Planning
+SDLC
+Program Management
+Software Project Management
+Pre-sales
+Mainframe
+Solution Architecture
+Global Delivery
+Risk Management
+Delivery Management
+Program Delivery Management
+Infra Delivery Manager
+People Management
+Customer Engagement
+Service Delivery Management
+Operations Management
+Incident Management
+IT Transformation
+Lean Transformation
+IT Strategy
+IT Service Management
+Service Delivery
+Data Center
+Enterprise Architecture
+CRM
+Outsourcing
+Project Delivery
+PMO
+Project Management Office (PMO)
+
+Education
+Engineering
+
+
+##########
+Name
+Venkatesh Prasad Suresh
+Experience
+Network Consulting Engineer  at   Cisco
+August 2016  -  Present (8 months)
+GSDC Intern  at   NetApp
+December 2015  -  May 2016  (6 months)
+Skills
+C
+C++
+Microsoft Office
+Public Speaking
+Java
+PowerPoint
+Microsoft Excel
+English
+HTML
+Social Media
+Planning & Organizing Skills
+Leadership
+Programming
+Matlab
+SQL
+Project Management
+Research
+German
+Negotiation
+Teamwork
+Event Management
+Logistics
+Creative Writing
+CSS
+Product Development
+Microsoft Word
+MySQL
+Management
+Perl
+Microsoft PowerPoint
+
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Venkatesh BV
+Experience
+Customer and Partner Experience Manager – APJ Region  at   Microsoft Corporation India Pvt. Ltd.
+October 2016  -  Present (6 months)
+Customer and Partner Experience Manager – APJ Region  at   Microsoft Corporation India Pvt. Ltd.
+August 2005  -  Present (11 years 8 months)
+Senior Engagement Manager  at   Microsoft Corporation India Pvt. Ltd.
+October 2015  -  September 2016  (1 year)
+Support Practice Manager  at   Microsoft
+July 2012  -  September 2015  (3 years 3 months)
+Technical Account Manager  at   Microsoft
+August 2005  -  June 2012  (6 years 11 months)
+Consultant/Project Manager  at   Infosys Technologies Ltd
+January 2004  -  July 2005  (1 year 7 months)
+Project Lead  at   Hewlett-Packard
+December 1999  -  January 2004  (4 years 2 months)
+Customer Support Engineer  at   Glenayre Electronics Inc
+March 1997  -  December 1999  (2 years 10 months)
+Telecom Engineer  at   Hindustan Electro Technology
+November 1995  -  March 1997  (1 year 5 months)
+Telecom Engineer  at   Advanced Tele Systems
+December 1994  -  November 1995  (1 year)
+Skills
+Pre-sales
+IT Strategy
+Service Delivery
+ITIL
+Global Delivery
+Microsoft Technologies
+Vendor Management
+Program Management
+Requirements Analysis
+Transition Management
+People Management
+Relationship Management
+
+Education
+
+
+##########
+Name
+Vikhyath Benegal
+Experience
+Analyst, KPMG Global Services  at   KPMG
+September 2015  -  Present (1 year 7 months)
+General Manager  at   Opencube Labs
+October 2014  -  June 2015  (9 months)
+Project Trainee  at   Indian Institute of Science
+February 2015  -  May 2015  (4 months)
+Organization Committee Member  at   AIESEC in Mainland of China
+January 2015  -  February 2015  (2 months)
+January 2014  -  February 2014  (2 months)
+Skills
+Cross-cultural Communication Skills
+Event Management
+Presentation Skills
+AutoCAD
+CATIA
+Marketing
+CAD
+Solidworks
+Solid Edge
+Microsoft Office
+Mechanical Engineering
+Six Sigma
+Sponsorship
+GD&T
+Leadership
+Training & Development
+Recruiting
+Project Management
+Matlab
+C
+Management
+C++
+Research
+Microsoft Excel
+Microsoft Word
+
+Education
+Engineering
+
+
+##########
+Name
+Vinay B S
+Experience
+Software Systems Engineer  at   Cisco
+October 2016  -  Present (6 months)
+Software Development Engineer  at   Cisco
+February 2015  -  October 2016  (1 year 9 months)
+QA Automation & OpenStack Engineer  at   Cisco
+September 2013  -  January 2015  (1 year 5 months)
+Software Engineering Intern  at   Dell
+February 2013  -  April 2013  (3 months)
+January 2013   Score:94.09
+Cisco IMC Supervisor
+February 2015 to Present
+OpenStack
+February 2014 to Present
+Powertool Automation Framework
+September 2013 to January 2014
+Classroom Assistance for the Blind
+February 2013 to June 2013
+Heart Rate Remote data logger
+February 2014 to Present
+Stalker
+January 2012 to Present
+Skills
+Software Solutions
+Solution Development
+Solution Implementation
+Software Integration
+Cloud Computing
+Virtualization
+Web Development
+Web Application Design
+Web Framework
+Flask
+HTML
+Cascading Style Sheets (CSS)
+JavaScript
+Python
+Java
+OpenStack
+Chef
+Docker
+
+Debugging
+Linux
+Testing
+Cisco UCS
+Networking
+XML
+Programming
+SQL
+Software Engineering
+Software Development
+Cisco UCS Director
+Cisco CloudCenter
+VMware
+API Development
+JSON
+
+Education
+Engineering
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Vinay Hegde
+Experience
+Senior Product Specialist  at   SAP
+April 2016  -  Present (1 year)
+SAP Analytic Extensions Expert  at   SAP
+June 2015  -  March 2016  (10 months)
+SAP BI Developer & Solution Expert  at   SAP
+February 2013  -  May 2015  (2 years 4 months)
+SAP BW Developer  at   SAP
+August 2008  -  January 2013  (4 years 6 months)
+Project Engineer  at   Wipro
+September 2007  -  August 2008  (1 year)
+Skills
+Product Management
+
+Analytics
+Business Intelligence
+Business Objects
+Data Warehousing
+SAP
+Software Development
+Java
+SAP NetWeaver Business Warehouse (SAP BW)
+SAP Products
+SQL
+Partner Management
+Business Object
+Requirements Analysis
+SAP BusinessObjects
+
+Education
+
+
+##########
+Name
+Vishnuprasad Yelthimar
+Experience
+Principal Consultant  at   Infosys
+October 2015  -  Present (1 year 6 months)
+Senior Project Manager  at   Infosys
+July 2014  -  Present (2 years 9 months)
+Project Manager  at   Infosys
+July 2008  -  Present (8 years 9 months)
+Senior Developer  at   Symphony Technology Group
+September 2006  -  June 2008  (1 year 10 months)
+Software Engineer  at   Accord Software & Systems
+July 2003  -  August 2006  (3 years 2 months)
+Principal Consultant  at   Infosys
+October 2015  -  Present (1 year 6 months)
+Senior Project Manager  at   Infosys
+July 2014  -  Present (2 years 9 months)
+Project Manager  at   Infosys
+July 2008  -  Present (8 years 9 months)
+Senior Developer  at   Symphony Technology Group
+September 2006  -  June 2008  (1 year 10 months)
+Software Engineer  at   Accord Software & Systems
+July 2003  -  August 2006  (3 years 2 months)
+Skills
+Unix
+C
+C++
+SQL
+Core Java
+ITIL
+IT Service Management
+Pre-sales
+Global Delivery
+Program Management
+Service Delivery
+Servicenow
+IT Infrastructure Management
+Requirements Analysis
+Software Development
+Oracle
+Unix Shell Scripting
+SDLC
+Shell Scripting
+
+Education
+MA
+Engineering
+
+
+##########
+Name
+Yeshashree Prasanna
+Experience
+Vice President Public Relations, Jinsei Dojo Toastmasters Club  at   Toastmasters International
+July 2015  -  Present (1 year 9 months)
+DevOps Engineer  at   Infosys
+April 2015  -  Present (2 years)
+Public Relations Head  at   Japan Habba
+December 2014  -  Present (2 years 4 months)
+Committee Chair  at   Japanese Language Speech Contest
+July 2015  -  December 2015  (6 months)
+Systems Engineer Trainee  at   Infosys
+July 2014  -  November 2014  (5 months)
+Skills
+Java
+SQL
+JavaScript
+HTML
+Databases
+MySQL
+JPA
+
+JSP
+Maven
+Eclipse
+Prezi
+JDBC
+PHP
+AJAX
+Capital Markets
+Leadership
+Japanese Business Culture
+C
+Public Speaking
+Social Media Marketing
+Photoshop
+Volunteer Experience
+Volunteer  at   Sankalp
+2013  -  2014
+An NGO which raises funds and organizes field trips to orphanages, old age homes and schools, where we
+ aim to supply basic amenities like food, clothing, everyday necessities and spend quality time with them.
+
+Yeshashree Prasanna
+Software Engineer
+Contact Yeshashree on LinkedIn
+
+Education
+Engineering
+Bachelor of Engineering (B.E.)
+
+
+##########
+Name
+Ritesh Alva
+Experience
+Associate Consultant  at   KPMG
+March 2015  -  Present (2 years 1 month)
+Manager-Customer service  at   IndusInd Bank
+June 2014  -  February 2015  (9 months)
+Marketing Intern  at   Hitachi Data Systems
+August 2013  -  October 2013  (3 months)
+Skills
+Microsoft Word
+Microsoft Excel
+Microsoft powerpoint
+C#
+PowerPoint
+Java
+Microsoft Office
+Research
+HTML
+Teamwork
+Business Analysis
+Business Strategy
+
+Education
+MBA
+BA
+Engineering
+Bachelor of Engineering (B.E.)
+Name
+Shekhar Shukla
+Experience
+Associate Technology L2 - Angular2,TypeScript,ES6 ,NodeJS,Javascript,Bootstrap  at   Sapient
+July 2016  -  Present (9 months)
+Associate Technology  at   Sapient
+July 2016  -  Present (9 months)
+Software Developer  at   Razorfish Technologies India
+September 2014  -  June 2016  (1 year 10 months)
+Software Engineer  at   Xicom Technologies Ltd
+September 2013  -  September 2014  (1 year 1 month)
+Software Developer  at   Unicode Systems
+June 2012  -  September 2013  (1 year 4 months)
+Skills
+PHP4/5
+Magento
+phpMyAdmin
+Wordpress
+JavaScriptMVC
+jQuery
+J2EE Application Development
+AJAX
+E-commerce
+Software Development
+Cascading Style Sheets (CSS)
+SQL
+PHP
+Java Enterprise Edition
+JavaScript
+HTML
+MySQL
+HTML5
+Git
+Linux
+Object-Oriented Programming (OOP)
+Angular 2
+TypeScript
+ES6
+
+Education
+Engineering
+Name
+Sandesh D S
+Experience
+Application Developer  at   ThoughtWorks
+August 2013  -  Present (3 years 8 months)B.E  at   PES INSTITUTE OF TECHNOLOGY , SOUTH CAMPUS
+August 2009  -  Present (7 years 8 months)STUDENT  at   HEIG-VD
+July 2012  -  July 2012  (1 month)B.E
+June 2013   Score:83.46
+Skills
+Data Structures
+C
+C++
+AngularJS
+Android Development
+Operating Systems
+Android SDK
+SQL
+NetLogo
+Scala
+Linux
+JavaScript
+RequireJS
+Web Development
+Agile Methodologies
+OS X
+Algorithms
+Git
+Java
+Python
+
+Spring MVC
+React.js
+reactnative
+
+Education
+Engineering
